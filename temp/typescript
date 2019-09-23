@@ -1,0 +1,82 @@
+Script started on Sun Sep 22 21:12:00 2019
+[1m[7m%[27m[1m[0m                                                                                                                                                                                     ]2;xiu@VPN-on-Zephyrs-Mac-2: ~/Desktop/scripts/temp]1;../scripts/temp[0m[27m[24m[J[01;32m➜  [36mtemp[00m [K[?1h=[?2004hscripts[1m/[0m[0m [?1l>[?2004l
+]2;scripts]1;scripts[1m[7m%[27m[1m[0m                                                                                                                                                                                     ]2;xiu@VPN-on-Zephyrs-Mac-2: ~/Desktop/scripts/temp/scripts]1;../temp/scripts[0m[27m[24m[J[01;32m➜  [36mscripts[00m [01;34mgit:([31mmaster[34m)[00m [K[?1h=[?2004hg l[?1l>[?2004l
+]2;ls -G -lah]1;ltotal 8
+drwxr-xr-x   6 xiu  staff   192B Sep 22 21:11 [1m[36m.[39;49m[0m
+drwxr-xr-x   4 xiu  staff   128B Sep 22 21:12 [1m[36m..[39;49m[0m
+drwxr-xr-x  13 xiu  staff   416B Sep 22 21:12 [1m[36m.git[39;49m[0m
+-rw-r--r--   1 xiu  staff    43B Sep 22 21:11 README.md
+drwxr-xr-x   3 xiu  staff    96B Sep 22 21:11 [1m[36mpoGoDPSCalculator[39;49m[0m
+drwxr-xr-x   5 xiu  staff   160B Sep 22 21:11 [1m[36mserviceThroughputPredictor[39;49m[0m
+[1m[7m%[27m[1m[0m                                                                                                                                                                                     ]2;xiu@VPN-on-Zephyrs-Mac-2: ~/Desktop/scripts/temp/scripts]1;../temp/scripts[0m[27m[24m[J[01;32m➜  [36mscripts[00m [01;34mgit:([31mmaster[34m)[00m [K[?1h=[?2004hccat .git[1m/[0m[0m [?1l>[?2004l
+]2;cat .git]1;catcat: .git: Is a directory
+[1m[7m%[27m[1m[0m                                                                                                                                                                                     ]2;xiu@VPN-on-Zephyrs-Mac-2: ~/Desktop/scripts/temp/scripts]1;../temp/scripts[0m[27m[24m[J[01;31m➜  [36mscripts[00m [01;34mgit:([31mmaster[34m)[00m [K[?1h=[?2004hccsc cat .git     c  lls .git[1m/[0m[0m [?1l>[?2004l
+]2;ls -G .git]1;lsHEAD        [1m[36mbranches[39;49m[0m    config      description [1m[36mhooks[39;49m[0m       index       [1m[36minfo[39;49m[0m        [1m[36mlogs[39;49m[0m        [1m[36mobjects[39;49m[0m     packed-refs [1m[36mrefs[39;49m[0m
+[1m[7m%[27m[1m[0m                                                                                                                                                                                     ]2;xiu@VPN-on-Zephyrs-Mac-2: ~/Desktop/scripts/temp/scripts]1;../temp/scripts[0m[27m[24m[J[01;32m➜  [36mscripts[00m [01;34mgit:([31mmaster[34m)[00m [K[?1h=[?2004hmmv .git[1m/[0m[0m ../../scripts[?1l>[?2004l
+]2;mv .git ../../scripts]1;mv[1m[7m%[27m[1m[0m                                                                                                                                                                                     ]2;xiu@VPN-on-Zephyrs-Mac-2: ~/Desktop/scripts/temp/scripts]1;../temp/scripts[0m[27m[24m[J[01;32m➜  [36mscripts[00m [K[?1h=[?2004hccd ../..[?1l>[?2004l
+]2;cd ../..]1;cd[1m[7m%[27m[1m[0m                                                                                                                                                                                     ]2;xiu@VPN-on-Zephyrs-Mac-2: ~/Desktop/scripts]1;..sktop/scripts[0m[27m[24m[J[01;32m➜  [36mscripts[00m [K[?1h=[?2004hsscripts[1m/[0m[0m [?1l>[?2004l
+]2;scripts]1;scripts[1m[7m%[27m[1m[0m                                                                                                                                                                                     ]2;xiu@VPN-on-Zephyrs-Mac-2: ~/Desktop/scripts/scripts]1;..ripts/scripts[0m[27m[24m[J[01;32m➜  [36mscripts[00m [01;34mgit:([31mmaster[34m)[00m [K[?1h=[?2004hlls[?1l>[?2004l
+]2;ls -G]1;lsHEAD        [1m[36mbranches[39;49m[0m    config      description [1m[36mhooks[39;49m[0m       index       [1m[36minfo[39;49m[0m        [1m[36mlogs[39;49m[0m        [1m[36mobjects[39;49m[0m     packed-refs [1m[36mrefs[39;49m[0m
+[1m[7m%[27m[1m[0m                                                                                                                                                                                     ]2;xiu@VPN-on-Zephyrs-Mac-2: ~/Desktop/scripts/scripts]1;..ripts/scripts[0m[27m[24m[J[01;32m➜  [36mscripts[00m [01;34mgit:([31mmaster[34m)[00m [K[?1h=[?2004hl[?1l>[?2004l
+]2;ls -G -lah]1;ltotal 40
+drwxr-xr-x  13 xiu  staff   416B Sep 22 21:12 [1m[36m.[39;49m[0m
+drwxr-xr-x   9 xiu  staff   288B Sep 22 21:12 [1m[36m..[39;49m[0m
+-rw-r--r--   1 xiu  staff    23B Sep 22 21:11 HEAD
+drwxr-xr-x   2 xiu  staff    64B Sep 22 21:11 [1m[36mbranches[39;49m[0m
+-rw-r--r--   1 xiu  staff   312B Sep 22 21:11 config
+-rw-r--r--   1 xiu  staff    73B Sep 22 21:11 description
+drwxr-xr-x  13 xiu  staff   416B Sep 22 21:11 [1m[36mhooks[39;49m[0m
+-rw-r--r--   1 xiu  staff   686B Sep 22 21:12 index
+drwxr-xr-x   3 xiu  staff    96B Sep 22 21:11 [1m[36minfo[39;49m[0m
+drwxr-xr-x   4 xiu  staff   128B Sep 22 21:11 [1m[36mlogs[39;49m[0m
+drwxr-xr-x  15 xiu  staff   480B Sep 22 21:11 [1m[36mobjects[39;49m[0m
+-rw-r--r--   1 xiu  staff   114B Sep 22 21:11 packed-refs
+drwxr-xr-x   5 xiu  staff   160B Sep 22 21:11 [1m[36mrefs[39;49m[0m
+[1m[7m%[27m[1m[0m                                                                                                                                                                                     ]2;xiu@VPN-on-Zephyrs-Mac-2: ~/Desktop/scripts/scripts]1;..ripts/scripts[0m[27m[24m[J[01;32m➜  [36mscripts[00m [01;34mgit:([31mmaster[34m)[00m [K[?1h=[?2004hl[?1l>[?2004l
+]2;ls -G -lah]1;ltotal 40
+drwxr-xr-x  13 xiu  staff   416B Sep 22 21:12 [1m[36m.[39;49m[0m
+drwxr-xr-x   9 xiu  staff   288B Sep 22 21:12 [1m[36m..[39;49m[0m
+-rw-r--r--   1 xiu  staff    23B Sep 22 21:11 HEAD
+drwxr-xr-x   2 xiu  staff    64B Sep 22 21:11 [1m[36mbranches[39;49m[0m
+-rw-r--r--   1 xiu  staff   312B Sep 22 21:11 config
+-rw-r--r--   1 xiu  staff    73B Sep 22 21:11 description
+drwxr-xr-x  13 xiu  staff   416B Sep 22 21:11 [1m[36mhooks[39;49m[0m
+-rw-r--r--   1 xiu  staff   686B Sep 22 21:12 index
+drwxr-xr-x   3 xiu  staff    96B Sep 22 21:11 [1m[36minfo[39;49m[0m
+drwxr-xr-x   4 xiu  staff   128B Sep 22 21:11 [1m[36mlogs[39;49m[0m
+drwxr-xr-x  15 xiu  staff   480B Sep 22 21:11 [1m[36mobjects[39;49m[0m
+-rw-r--r--   1 xiu  staff   114B Sep 22 21:11 packed-refs
+drwxr-xr-x   5 xiu  staff   160B Sep 22 21:11 [1m[36mrefs[39;49m[0m
+[1m[7m%[27m[1m[0m                                                                                                                                                                                     ]2;xiu@VPN-on-Zephyrs-Mac-2: ~/Desktop/scripts/scripts]1;..ripts/scripts[0m[27m[24m[J[01;32m➜  [36mscripts[00m [01;34mgit:([31mmaster[34m)[00m [K[?1h=[?2004hmmkm  l[?1l>[?2004l
+]2;ls -G -lah]1;ltotal 40
+drwxr-xr-x  13 xiu  staff   416B Sep 22 21:12 [1m[36m.[39;49m[0m
+drwxr-xr-x   9 xiu  staff   288B Sep 22 21:12 [1m[36m..[39;49m[0m
+-rw-r--r--   1 xiu  staff    23B Sep 22 21:11 HEAD
+drwxr-xr-x   2 xiu  staff    64B Sep 22 21:11 [1m[36mbranches[39;49m[0m
+-rw-r--r--   1 xiu  staff   312B Sep 22 21:11 config
+-rw-r--r--   1 xiu  staff    73B Sep 22 21:11 description
+drwxr-xr-x  13 xiu  staff   416B Sep 22 21:11 [1m[36mhooks[39;49m[0m
+-rw-r--r--   1 xiu  staff   686B Sep 22 21:12 index
+drwxr-xr-x   3 xiu  staff    96B Sep 22 21:11 [1m[36minfo[39;49m[0m
+drwxr-xr-x   4 xiu  staff   128B Sep 22 21:11 [1m[36mlogs[39;49m[0m
+drwxr-xr-x  15 xiu  staff   480B Sep 22 21:11 [1m[36mobjects[39;49m[0m
+-rw-r--r--   1 xiu  staff   114B Sep 22 21:11 packed-refs
+drwxr-xr-x   5 xiu  staff   160B Sep 22 21:11 [1m[36mrefs[39;49m[0m
+[1m[7m%[27m[1m[0m                                                                                                                                                                                     ]2;xiu@VPN-on-Zephyrs-Mac-2: ~/Desktop/scripts/scripts]1;..ripts/scripts[0m[27m[24m[J[01;32m➜  [36mscripts[00m [01;34mgit:([31mmaster[34m)[00m [K[?1h=[?2004hppwd[?1l>[?2004l
+]2;pwd]1;pwd/Users/xiu/Desktop/scripts/scripts
+[1m[7m%[27m[1m[0m                                                                                                                                                                                     ]2;xiu@VPN-on-Zephyrs-Mac-2: ~/Desktop/scripts/scripts]1;..ripts/scripts[0m[27m[24m[J[01;32m➜  [36mscripts[00m [01;34mgit:([31mmaster[34m)[00m [K[?1h=[?2004hccd c  ccd ..[?1l>[?2004l
+]2;cd ..]1;cd[1m[7m%[27m[1m[0m                                                                                                                                                                                     ]2;xiu@VPN-on-Zephyrs-Mac-2: ~/Desktop/scripts]1;..sktop/scripts[0m[27m[24m[J[01;32m➜  [36mscripts[00m [K[?1h=[?2004hppwd[?1l>[?2004l
+]2;pwd]1;pwd/Users/xiu/Desktop/scripts
+[1m[7m%[27m[1m[0m                                                                                                                                                                                     ]2;xiu@VPN-on-Zephyrs-Mac-2: ~/Desktop/scripts]1;..sktop/scripts[0m[27m[24m[J[01;32m➜  [36mscripts[00m [K[?1h=[?2004hmmv scripts[1m/[0m[0m .git[?1l>[?2004l
+]2;mv scripts .git]1;mv[1m[7m%[27m[1m[0m                                                                                                                                                                                     ]2;xiu@VPN-on-Zephyrs-Mac-2: ~/Desktop/scripts]1;..sktop/scripts[0m[27m[24m[J[01;32m➜  [36mscripts[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hl[?1l>[?2004l
+]2;ls -G -lah]1;ltotal 32
+drwxr-xr-x   9 xiu  staff   288B Sep 22 21:13 [1m[36m.[39;49m[0m
+drwx------+ 37 xiu  staff   1.2K Sep 22 21:11 [1m[36m..[39;49m[0m
+-rw-r--r--@  1 xiu  staff   8.0K Sep 22 21:10 .DS_Store
+drwxr-xr-x  13 xiu  staff   416B Sep 22 21:13 [1m[36m.git[39;49m[0m
+drwxr-xr-x   2 xiu  staff    64B Sep 22 21:06 [1m[36malgorithm[39;49m[0m
+drwxr-xr-x   8 xiu  staff   256B Sep 21 23:22 [1m[36mpoGoDPSCalculator[39;49m[0m
+-rw-r--r--   1 xiu  staff   2.7K Sep 21 20:34 pokemon_moves_dps_calculator.py
+drwxr-xr-x   6 xiu  staff   192B Sep 21 20:31 [1m[36mserviceThroughputPredictor[39;49m[0m
+drwxr-xr-x   4 xiu  staff   128B Sep 22 21:12 [1m[36mtemp[39;49m[0m
+[1m[7m%[27m[1m[0m                                                                                                                                                                                     ]2;xiu@VPN-on-Zephyrs-Mac-2: ~/Desktop/scripts]1;..sktop/scripts[0m[27m[24m[J[01;32m➜  [36mscripts[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004h

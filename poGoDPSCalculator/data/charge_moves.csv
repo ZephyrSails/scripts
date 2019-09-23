@@ -1,0 +1,131 @@
+Type Charge Moves	DPS	DPE	DPE-PvP	Power-PvP	Energy-PvP	Cast Time
+https://pokeassistant.com/main/movelist
+Bug	Megahorn	40.9	0.90	1.64	90-90	100-55	2.2s
+Bug	X-Scissor	28.1	1.36	1.29	45-45	33-35	1.6s
+Bug	Signal Beam	25.9	1.50	1.36	75-75	50-55	2.9s
+Bug	Bug Buzz	24.3	1.80	1.50	90-90	50-60	3.7s
+Bug	Silver Wind	18.9	2.12	1.56	70-70	33-45	3.7s
+Dark	Foul Play	35.0	1.40	1.56	70-70	50-45	2.0s
+Dark	Dark Pulse	26.7	1.60	1.60	80-80	50-50	3.0s
+Dark	Night Slash	22.7	1.52	1.25	50-50	33-40	2.2s
+Dark	Crunch	21.9	2.12	1.56	70-70	33-45	3.2s
+Dragon	Draco Meteor	41.7	1.50	2.00	150-150	100-75	3.6s
+Dragon	Dragon Claw	29.4	1.52	1.43	50-50	33-35	1.7s
+Dragon	Outrage	28.2	2.20	1.83	110-110	50-60	3.9s
+Dragon	Dragon Pulse	25.0	1.80	1.50	90-90	50-60	3.6s
+Dragon	Twister	16.1	1.36	1.00	45-45	33-45	2.8s
+Electric	Thunder	41.7	1.00	1.67	100-100	100-60	2.4s
+Electric	Zap Cannon	37.8	1.40	1.88	140-150	100-80	3.7s
+Electric	Wild Charge	34.6	1.80	1.80	90-90	50-50	2.6s
+Electric	Thunderbolt	32.0	1.60	1.64	80-90	50-55	2.5s
+Electric	Discharge	26.0	1.97	1.44	65-65	33-45	2.5s
+Electric	Thunder Punch	25.0	1.36	1.38	45-55	33-40	1.8s
+Electric	Parabolic Charge	8.9	0.50	0.45	25-25	50-55	2.8s
+Fairy	Moonblast	33.3	1.30	1.86	130-130	100-70	3.9s
+Fairy	Play Rough	31.0	1.80	1.50	90-90	50-60	2.9s
+Fairy	Dazzling Gleam	28.6	2.00	1.57	100-110	50-70	3.5s
+Fairy	Draining Kiss	23.1	1.20	1.09	60-60	50-55	2.6s
+Fairy	Disarming Voice	17.9	2.12	1.56	70-70	33-45	3.9s
+Fighting	Close Combat	43.5	1.00	1.67	100-100	100-60	2.3s
+Fighting	Focus Blast	40.0	1.40	2.00	140-150	100-75	3.5s
+Fighting	Dynamic Punch	33.3	1.80	1.80	90-90	50-50	2.7s
+Fighting	Cross Chop	33.3	1.00	1.43	50-50	50-35	1.5s
+Fighting	Submission	27.3	1.20	1.20	60-60	50-50	2.2s
+Fighting	Brick Break	25.0	1.21	1.14	40-40	33-35	1.6s
+Fighting	Low Sweep	21.1	1.21	1.00	40-40	33-40	1.9s
+Fire	Overheat	40.0	1.60	1.88	160-150	100-80	4.0s
+Fire	Weather Ball	37.5	1.82	1.71	60-60	33-35	1.6s
+Fire	Fire Blast	33.3	1.40	1.75	140-140	100-80	4.2s
+Fire	Blast Burn	33.3	2.20	2.20	110-110	50-50	3.3s
+Fire	Flamethrower	31.8	1.40	1.64	70-90	50-55	2.2s
+Fire	Heat Wave	31.7	0.95	1.27	95-95	100-75	3.0s
+Fire	Flame Burst	26.9	1.40	1.27	70-70	50-55	2.6s
+Fire	Fire Punch	25.0	1.67	1.38	55-55	33-40	2.2s
+Fire	Flame Wheel	22.2	1.20	1.09	60-60	50-55	2.7s
+Fire	Flame Charge	18.4	2.12	1.40	70-70	33-50	3.8s
+Flying	Brave Bird	45.0	0.90	1.64	90-90	100-55	2.0s
+Flying	Hurricane	40.7	1.10	1.69	110-110	100-65	2.7s
+Flying	Sky Attack	40.0	1.60	1.78	80-80	50-45	2.0s
+Flying	Drill Peck	26.1	1.82	1.50	60-60	33-40	2.3s
+Flying	Aerial Ace	22.9	1.67	1.22	55-55	33-45	2.4s
+Flying	Air Cutter	22.2	1.20	1.09	60-60	50-55	2.7s
+Ghost	Shadow Ball	33.3	2.00	1.82	100-100	50-55	3.0s
+Ghost	Shadow Punch	23.5	1.21	1.14	40-40	33-35	1.7s
+Ghost	Night Shade	23.1	1.20	1.09	60-60	50-55	2.6s
+Ghost	Ominous Wind	21.7	1.52	1.25	50-50	33-40	2.3s
+Ghost	Shadow Sneak	17.2	1.52	1.11	50-50	33-45	2.9s
+Grass	Petal Blizzard	42.3	1.10	1.69	110-110	100-65	2.6s
+Grass	Frenzy Plant	38.5	2.00	2.22	100-100	50-45	2.6s
+Grass	Solar Beam	36.7	1.80	1.88	180-150	100-80	4.9s
+Grass	Power Whip	34.6	1.80	1.80	90-90	50-50	2.6s
+Grass	Grass Knot	34.6	1.80	1.80	90-90	50-50	2.6s
+Grass	Leaf Blade	29.2	2.12	2.00	70-70	33-35	2.4s
+Grass	Seed Bomb	26.2	1.67	1.38	55-55	33-40	2.1s
+Grass	Energy Ball	23.1	1.80	1.50	90-90	50-60	3.9s
+Grass	Giga Drain	12.8	0.50	0.63	50-50	100-80	3.9s
+Grass	Mega Drain	9.6	0.50	0.45	25-25	50-55	2.6s
+Ground	Precipice Blades	76.5	1.30	2.17	130-130	100-60	1.7s
+Ground	Earthquake	33.3	1.20	1.85	120-120	100-65	3.6s
+Ground	Drill Run	28.6	1.60	1.45	80-80	50-55	2.8s
+Ground	Bone Club	25.0	1.21	1.14	40-40	33-35	1.6s
+Ground	Mud Bomb	23.9	1.67	1.38	55-55	33-40	2.3s
+Ground	Bulldoze	22.9	1.60	1.33	80-80	50-60	3.5s
+Ground	Dig	21.3	2.00	1.25	100-100	50-80	4.7s
+Ground	Sand Tomb	20.0	1.60	1.33	80-80	50-60	4.0s
+Ice	Blizzard	41.9	1.30	1.73	130-130	100-75	3.1s
+Ice	Weather Ball	37.5	1.82	1.71	60-60	33-35	1.6s
+Ice	Avalanche	33.3	1.80	2.00	90-90	50-45	2.7s
+Ice	Ice Beam	27.3	1.80	1.64	90-90	50-55	3.3s
+Ice	Ice Punch	26.3	1.52	1.38	50-55	33-40	1.9s
+Ice	Aurora Beam	22.5	1.60	1.33	80-80	50-60	3.6s
+Ice	Icy Wind	18.2	1.82	1.33	60-60	33-45	3.3s
+Normal	Hyper Beam	39.5	1.50	1.88	150-150	100-80	3.8s
+Normal	Stomp	32.4	1.10	1.38	55-55	50-40	1.7s
+Normal	Hyper Fang	32.0	1.60	1.60	80-80	50-50	2.5s
+Normal	Last Resort	31.0	1.80	1.64	90-90	50-55	2.9s
+Normal	Rest	26.3	1.52	1.43	50-50	33-35	1.9s
+Normal	Body Slam	26.3	1.52	1.71	50-60	33-35	1.9s
+Normal	Horn Attack	21.6	1.21	1.14	40-40	33-35	1.9s
+Normal	Swift	21.4	1.20	1.09	60-60	50-55	2.8s
+Normal	Wrap	20.7	1.82	1.33	60-60	33-45	2.9s
+Normal	Vice Grip	18.4	1.06	1.00	35-40	33-40	1.9s
+Normal	Struggle	15.9	1.06	0.35	35-35	33-100	2.2s
+Poison	Gunk Shot	41.9	1.30	1.73	130-130	100-75	3.1s
+Poison	Sludge Bomb	34.8	1.60	1.60	80-80	50-50	2.3s
+Poison	Sludge Wave	34.4	1.10	1.69	110-110	100-65	3.2s
+Poison	Cross Poison	26.7	1.21	1.14	40-40	33-35	1.5s
+Poison	Sludge	23.8	1.52	1.25	50-50	33-40	2.1s
+Poison	Poison Fang	20.6	1.06	1.14	35-40	33-35	1.7s
+Psychic	Futuresight	44.4	1.20	1.85	120-120	100-65	2.7s
+Psychic	Psychic	35.7	1.00	1.43	100-100	100-70	2.8s
+Psychic	Psyshock	24.1	1.97	1.56	65-70	33-45	2.7s
+Psychic	Mirror Coat	23.1	1.20	1.09	60-60	50-55	2.6s
+Psychic	Psystrike	22.7	2.00	1.82	100-100	50-55	4.4s
+Psychic	Psybeam	21.9	1.40	1.17	70-70	50-60	3.2s
+Psychic	Heart Stamp	21.1	1.21	1.00	40-40	33-40	1.9s
+Psychic	Psycho Boost	17.5	1.40	1.75	70-70	50-40	4.0s
+Rock	Stone Edge	43.5	1.00	1.82	100-100	100-55	2.3s
+Rock	Weather Ball	37.5	1.82	1.71	60-60	33-35	1.6s
+Rock	Rock Slide	29.6	1.60	1.78	80-80	50-45	2.7s
+Rock	Power Gem	27.6	1.60	1.33	80-80	50-60	2.9s
+Rock	Rock Blast	23.8	1.52	1.25	50-50	33-40	2.1s
+Rock	Rock Tomb	21.9	1.40	1.17	70-70	50-60	3.2s
+Rock	Ancient Power	20.0	2.12	1.56	70-70	33-45	3.5s
+Steel	Doom Desire	47.1	1.60	2.29	80-80	50-35	1.7s
+Steel	Meteor Mash	38.5	2.00	2.00	100-100	50-50	2.6s
+Steel	Flash Cannon	37.0	1.00	1.69	100-110	100-65	2.7s
+Steel	Heavy Slam	33.3	1.40	1.40	70-70	50-50	2.1s
+Steel	Iron Head	31.6	1.20	1.40	60-70	50-50	1.9s
+Steel	Magnet Bomb	25.0	2.12	1.56	70-70	33-45	2.8s
+Steel	Gyro Ball	24.2	1.60	1.33	80-80	50-60	3.3s
+Water	Origin Pulse	76.5	1.30	2.17	130-130	100-60	1.7s
+Water	Hydro Cannon	47.4	1.80	2.25	90-90	50-40	1.9s
+Water	Hydro Pump	39.4	1.30	1.73	130-130	100-75	3.3s
+Water	Surf	38.2	1.30	1.63	65-65	50-40	1.7s
+Water	Weather Ball	37.5	1.82	1.71	60-60	33-35	1.6s
+Water	Aqua Tail	26.3	1.52	1.43	50-50	33-35	1.9s
+Water	Brine	26.1	1.20	1.20	60-60	50-50	2.3s
+Water	Bubble Beam	23.7	1.36	1.13	45-45	33-40	1.9s
+Water	Water Pulse	21.9	1.40	1.17	70-70	50-60	3.2s
+Water	Scald	21.6	1.60	1.33	80-80	50-60	3.7s
+Water	Aqua Jet	17.3	1.36	1.00	45-45	33-45	2.6s

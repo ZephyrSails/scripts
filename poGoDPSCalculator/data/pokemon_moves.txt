@@ -1,0 +1,4417 @@
+https://pokeassistant.com/movesets
+
+Bulbasaur
+14.0 Vine Whip
+10.0 Tackle
+41.71.9 Sludge Bomb
+41.52.2 Power Whip
+31.42.0 Seed Bomb
+
+
+Ivysaur
+15.6 Razor Leaf
+14.0 Vine Whip
+44.12.2 Solar Beam
+41.71.9 Sludge Bomb
+41.52.2 Power Whip
+
+
+Venusaur
+15.6 Razor Leaf
+14.0 Vine Whip
+50.81.3 Petal Blizzard
+46.22.4 Frenzy Plant
+44.12.2 Solar Beam
+41.71.9 Sludge Bomb
+
+
+Charmander
+12.0 Scratch
+12.0 Ember
+38.21.7 Flamethrower
+32.31.7 Flame Burst
+22.12.5 Flame Charge
+
+
+Charmeleon
+14.7 Fire Fang
+12.0 Scratch
+12.0 Ember
+38.21.7 Flamethrower
+32.31.7 Flame Burst
+30.02.0 Fire Punch
+
+
+Charizard
+15.3 Fire Spin
+14.0 Air Slash
+12.0 Wing Attack
+12.0 Ember
+48.01.9 Overheat
+40.01.7 Fire Blast
+40.02.6 Blast Burn
+38.21.7 Flamethrower
+29.41.5 Dragon Claw
+
+
+Squirtle
+12.0 Bubble
+10.0 Tackle
+31.61.8 Aqua Tail
+26.31.7 Water Pulse
+20.81.6 Aqua Jet
+
+
+Wartortle
+12.0 Bite
+12.0 Water Gun
+47.31.6 Hydro Pump
+27.31.8 Ice Beam
+20.81.6 Aqua Jet
+
+
+Blastoise
+12.0 Bite
+12.0 Water Gun
+56.82.2 Hydro Cannon
+47.31.6 Hydro Pump
+37.01.0 Flash Cannon
+27.31.8 Ice Beam
+
+
+Caterpie
+12.0 Bug Bite
+10.0 Tackle
+15.91.1 Struggle
+
+
+Metapod
+12.0 Bug Bite
+10.0 Tackle
+15.91.1 Struggle
+
+
+Butterfree
+12.5 Confusion
+12.0 Bug Bite
+12.0 Struggle Bug
+35.71.0 Psychic
+31.01.8 Signal Beam
+29.22.2 Bug Buzz
+
+
+Weedle
+12.0 Bug Bite
+10.0 Poison Sting
+15.91.1 Struggle
+
+
+Kakuna
+12.0 Bug Bite
+10.0 Poison Sting
+15.91.1 Struggle
+
+
+Beedrill
+15.0 Poison Jab
+12.0 Bug Bite
+10.9 Infestation
+41.71.9 Sludge Bomb
+33.81.6 X-Scissor
+22.91.7 Aerial Ace
+
+
+Pidgey
+12.0 Quick Attack
+12.0 Tackle
+27.52.0 Aerial Ace
+26.71.4 Air Cutter
+16.11.4 Twister
+
+
+Pidgeotto
+13.8 Steel Wing
+12.0 Wing Attack
+27.52.0 Aerial Ace
+26.71.4 Air Cutter
+16.11.4 Twister
+
+
+Pidgeot
+14.0 Air Slash
+13.8 Steel Wing
+12.0 Wing Attack
+54.01.1 Brave Bird
+48.91.3 Hurricane
+27.52.0 Aerial Ace
+26.71.4 Air Cutter
+
+
+Rattata
+12.0 Quick Attack
+12.0 Tackle
+38.41.9 Hyper Fang
+31.61.8 Body Slam
+21.32.0 Dig
+
+
+Raticate
+12.0 Bite
+12.0 Quick Attack
+47.41.8 Hyper Beam
+38.41.9 Hyper Fang
+21.32.0 Dig
+
+
+Spearow
+12.0 Peck
+12.0 Quick Attack
+48.01.9 Sky Attack
+31.32.2 Drill Peck
+27.52.0 Aerial Ace
+16.11.4 Twister
+
+
+Fearow
+13.8 Steel Wing
+12.0 Peck
+48.01.9 Sky Attack
+28.61.6 Drill Run
+27.52.0 Aerial Ace
+16.11.4 Twister
+
+
+Ekans
+13.5 Acid
+10.0 Poison Sting
+50.31.6 Gunk Shot
+41.71.9 Sludge Bomb
+24.71.3 Poison Fang
+20.71.8 Wrap
+
+
+Arbok
+13.6 Dragon Tail
+13.5 Acid
+12.0 Bite
+50.31.6 Gunk Shot
+41.31.3 Sludge Wave
+26.71.6 Dark Pulse
+
+
+Pikachu
+10.0 Quick Attack
+10.0 Thunder Shock
+3.8 Present
+50.01.2 Thunder
+41.52.2 Wild Charge
+38.41.9 Thunderbolt
+31.22.4 Discharge
+
+
+Raichu
+10.4 Volt Switch
+10.3 Spark
+10.0 Thunder Shock
+50.01.2 Thunder
+41.52.2 Wild Charge
+30.01.6 Thunder Punch
+25.01.2 Brick Break
+
+
+Sandshrew
+12.0 Scratch
+10.0 Mud Shot
+29.61.6 Rock Slide
+25.52.4 Dig
+24.01.9 Sand Tomb
+21.91.4 Rock Tomb
+
+
+Sandslash
+11.4 Metal Claw
+10.0 Mud Shot
+40.01.4 Earthquake
+27.41.9 Bulldoze
+21.91.4 Rock Tomb
+
+
+Nidoran♀
+12.0 Bite
+10.0 Poison Sting
+41.71.9 Sludge Bomb
+26.31.5 Body Slam
+24.71.3 Poison Fang
+
+
+Nidorina
+12.0 Bite
+10.0 Poison Sting
+41.71.9 Sludge Bomb
+24.71.3 Poison Fang
+21.32.0 Dig
+
+
+Nidoqueen
+15.0 Poison Jab
+12.0 Bite
+43.51.0 Stone Edge
+41.31.3 Sludge Wave
+40.01.4 Earthquake
+
+
+Nidoran♂
+10.0 Peck
+10.0 Poison Sting
+41.71.9 Sludge Bomb
+26.31.5 Body Slam
+21.61.2 Horn Attack
+
+
+Nidorino
+15.0 Poison Jab
+10.0 Poison Sting
+41.71.9 Sludge Bomb
+21.61.2 Horn Attack
+21.32.0 Dig
+
+
+Nidoking
+15.0 Poison Jab
+13.6 Iron Tail
+7.5 Fury Cutter
+41.31.3 Sludge Wave
+40.90.9 Megahorn
+40.01.4 Earthquake
+
+
+Clefairy
+11.7 Pound
+10.9 Zen Headbutt
+40.01.6 Moonblast
+26.31.5 Body Slam
+21.52.5 Disarming Voice
+
+
+Clefable
+11.7 Pound
+10.9 Zen Headbutt
+7.3 Charge Beam
+40.01.6 Moonblast
+38.52.0 Meteor Mash
+35.71.0 Psychic
+34.32.4 Dazzling Gleam
+
+
+Vulpix
+12.0 Ember
+10.0 Quick Attack
+38.21.7 Flamethrower
+26.31.5 Body Slam
+22.12.5 Flame Charge
+
+
+Ninetales
+15.3 Fire Spin
+12.0 Ember
+11.1 Feint Attack
+48.01.9 Overheat
+40.01.7 Fire Blast
+38.21.7 Flamethrower
+38.01.1 Heat Wave
+36.71.8 Solar Beam
+24.12.0 Psyshock
+
+
+Jigglypuff
+14.0 Pound
+11.1 Feint Attack
+37.22.2 Play Rough
+34.32.4 Dazzling Gleam
+31.61.8 Body Slam
+24.21.6 Gyro Ball
+21.52.5 Disarming Voice
+
+
+Wigglytuff
+14.0 Pound
+11.1 Feint Attack
+47.41.8 Hyper Beam
+37.22.2 Play Rough
+34.32.4 Dazzling Gleam
+27.31.8 Ice Beam
+
+
+Zubat
+12.0 Bite
+10.0 Quick Attack
+41.71.9 Sludge Bomb
+26.71.4 Air Cutter
+24.71.3 Poison Fang
+21.41.2 Swift
+
+
+Golbat
+12.0 Bite
+12.0 Wing Attack
+33.32.0 Shadow Ball
+26.71.4 Air Cutter
+24.71.3 Poison Fang
+21.71.5 Ominous Wind
+
+
+Oddish
+15.6 Razor Leaf
+13.5 Acid
+41.71.9 Sludge Bomb
+33.31.3 Moonblast
+31.42.0 Seed Bomb
+
+
+Gloom
+15.6 Razor Leaf
+13.5 Acid
+50.81.3 Petal Blizzard
+41.71.9 Sludge Bomb
+33.31.3 Moonblast
+
+
+Vileplume
+15.6 Razor Leaf
+13.5 Acid
+50.81.3 Petal Blizzard
+44.12.2 Solar Beam
+33.31.3 Moonblast
+
+
+Paras
+12.0 Bug Bite
+12.0 Scratch
+33.81.6 X-Scissor
+31.42.0 Seed Bomb
+26.71.2 Cross Poison
+
+
+Parasect
+12.0 Bug Bite
+12.0 Struggle Bug
+9.0 Fury Cutter
+44.12.2 Solar Beam
+33.81.6 X-Scissor
+26.71.2 Cross Poison
+
+
+Venonat
+12.5 Confusion
+12.0 Bug Bite
+31.01.8 Signal Beam
+24.71.3 Poison Fang
+21.91.4 Psybeam
+
+
+Venomoth
+12.5 Confusion
+12.0 Bug Bite
+10.9 Infestation
+35.71.0 Psychic
+29.22.2 Bug Buzz
+24.71.3 Poison Fang
+22.72.5 Silver Wind
+
+
+
+
+
+
+Diglett
+12.9 Mud-Slap
+12.0 Scratch
+10.0 Mud Shot
+28.72.0 Mud Bomb
+25.52.4 Dig
+21.91.4 Rock Tomb
+
+
+Dugtrio
+12.9 Mud-Slap
+10.0 Sucker Punch
+10.0 Mud Shot
+43.51.0 Stone Edge
+40.01.4 Earthquake
+28.72.0 Mud Bomb
+
+
+Meowth
+14.4 Scratch
+12.0 Bite
+35.01.4 Foul Play
+31.61.8 Body Slam
+26.71.6 Dark Pulse
+22.71.5 Night Slash
+
+
+Persian
+14.4 Scratch
+11.1 Feint Attack
+35.01.4 Foul Play
+31.01.8 Play Rough
+27.61.6 Power Gem
+22.71.5 Night Slash
+
+
+Psyduck
+12.0 Water Gun
+10.9 Zen Headbutt
+33.31.0 Cross Chop
+31.61.8 Aqua Tail
+21.91.4 Psybeam
+
+
+Golduck
+12.5 Confusion
+12.0 Water Gun
+47.31.6 Hydro Pump
+35.71.0 Psychic
+27.31.8 Ice Beam
+
+
+Mankey
+12.0 Scratch
+12.0 Karate Chop
+40.01.2 Cross Chop
+30.01.5 Brick Break
+25.31.5 Low Sweep
+
+
+Primeape
+16.0 Counter
+12.0 Karate Chop
+12.0 Low Kick
+52.21.2 Close Combat
+40.01.2 Cross Chop
+25.31.5 Low Sweep
+22.71.5 Night Slash
+
+
+Growlithe
+12.0 Ember
+12.0 Bite
+38.21.7 Flamethrower
+26.71.4 Flame Wheel
+26.31.5 Body Slam
+
+
+Arcanine
+14.7 Fire Fang
+12.0 Bite
+10.9 Snarl
+40.01.7 Fire Blast
+38.21.7 Flamethrower
+34.61.8 Wild Charge
+22.91.6 Bulldoze
+21.92.1 Crunch
+
+
+Poliwag
+12.0 Bubble
+8.3 Mud Shot
+28.41.6 Bubble Beam
+26.31.5 Body Slam
+23.91.7 Mud Bomb
+
+
+Poliwhirl
+12.0 Bubble
+8.3 Mud Shot
+28.41.6 Bubble Beam
+26.31.7 Water Pulse
+25.91.9 Scald
+23.91.7 Mud Bomb
+
+
+Poliwrath
+13.8 Rock Smash
+12.0 Bubble
+8.3 Mud Shot
+47.31.6 Hydro Pump
+40.02.2 Dynamic Punch
+32.71.4 Submission
+26.31.5 Ice Punch
+
+
+Abra
+13.1 Zen Headbutt
+7.3 Charge Beam
+33.32.0 Shadow Ball
+28.92.4 Psyshock
+25.91.5 Signal Beam
+
+
+Kadabra
+15.0 Confusion
+10.0 Psycho Cut
+33.32.0 Shadow Ball
+28.62.0 Dazzling Gleam
+26.31.7 Psybeam
+
+
+Alakazam
+15.0 Confusion
+10.0 Psycho Cut
+53.31.4 Futuresight
+42.91.2 Psychic
+40.01.4 Focus Blast
+33.32.0 Shadow Ball
+28.62.0 Dazzling Gleam
+25.01.7 Fire Punch
+
+
+Machop
+13.8 Rock Smash
+12.0 Karate Chop
+12.0 Low Kick
+40.01.2 Cross Chop
+30.01.5 Brick Break
+25.31.5 Low Sweep
+
+
+Machoke
+12.0 Karate Chop
+12.0 Low Kick
+40.01.2 Cross Chop
+40.02.2 Dynamic Punch
+32.71.4 Submission
+30.01.5 Brick Break
+
+
+Machamp
+16.0 Counter
+12.0 Karate Chop
+10.0 Bullet Punch
+52.21.2 Close Combat
+43.51.0 Stone Edge
+40.01.2 Cross Chop
+40.02.2 Dynamic Punch
+33.31.4 Heavy Slam
+32.71.4 Submission
+29.61.6 Rock Slide
+
+
+Bellsprout
+14.0 Vine Whip
+13.5 Acid
+41.71.9 Sludge Bomb
+41.52.2 Power Whip
+20.71.8 Wrap
+
+
+Weepinbell
+15.6 Razor Leaf
+13.5 Acid
+8.7 Bullet Seed
+41.71.9 Sludge Bomb
+41.52.2 Power Whip
+31.42.0 Seed Bomb
+
+
+Victreebel
+15.6 Razor Leaf
+13.5 Acid
+44.12.2 Solar Beam
+41.71.9 Sludge Bomb
+35.02.5 Leaf Blade
+
+
+Tentacool
+12.0 Bubble
+10.0 Poison Sting
+28.41.6 Bubble Beam
+26.31.7 Water Pulse
+20.71.8 Wrap
+
+
+Tentacruel
+15.0 Poison Jab
+13.5 Acid
+47.31.6 Hydro Pump
+41.91.3 Blizzard
+41.31.3 Sludge Wave
+
+
+Geodude
+16.0 Rock Throw
+10.0 Tackle
+35.61.9 Rock Slide
+26.31.7 Rock Tomb
+25.52.4 Dig
+
+
+Graveler
+16.0 Rock Throw
+12.9 Mud-Slap
+10.0 Mud Shot
+52.21.2 Stone Edge
+35.61.9 Rock Slide
+28.61.8 Rock Blast
+25.52.4 Dig
+
+
+Golem
+16.0 Rock Throw
+12.9 Mud-Slap
+10.0 Mud Shot
+52.21.2 Stone Edge
+40.01.4 Earthquake
+28.61.8 Rock Blast
+24.02.5 Ancient Power
+
+
+Ponyta
+12.0 Ember
+10.0 Tackle
+40.01.7 Fire Blast
+32.41.1 Stomp
+26.71.4 Flame Wheel
+22.12.5 Flame Charge
+
+
+Rapidash
+15.3 Fire Spin
+12.0 Ember
+10.0 Low Kick
+40.01.7 Fire Blast
+38.01.1 Heat Wave
+28.61.6 Drill Run
+
+
+Slowpoke
+15.0 Confusion
+12.0 Water Gun
+42.91.2 Psychic
+28.92.4 Psyshock
+26.31.7 Water Pulse
+
+
+Slowbro
+15.0 Confusion
+12.0 Water Gun
+42.91.2 Psychic
+27.31.8 Ice Beam
+26.31.7 Water Pulse
+
+
+Magnemite
+10.3 Spark
+10.0 Thunder Shock
+38.41.9 Thunderbolt
+31.22.4 Discharge
+30.02.5 Magnet Bomb
+
+
+Magneton
+10.3 Spark
+10.0 Thunder Shock
+8.7 Charge Beam
+45.41.7 Zap Cannon
+44.41.2 Flash Cannon
+31.22.4 Discharge
+30.02.5 Magnet Bomb
+
+
+Farfetch'd
+14.0 Air Slash
+12.0 Cut
+7.5 Fury Cutter
+29.22.1 Leaf Blade
+27.52.0 Aerial Ace
+26.71.4 Air Cutter
+
+
+Doduo
+12.0 Peck
+12.0 Quick Attack
+54.01.1 Brave Bird
+31.32.2 Drill Peck
+27.52.0 Aerial Ace
+25.71.4 Swift
+
+
+Dodrio
+13.8 Steel Wing
+11.1 Feint Attack
+54.01.1 Brave Bird
+31.32.2 Drill Peck
+27.52.0 Aerial Ace
+26.71.4 Air Cutter
+
+
+Seel
+12.0 Water Gun
+10.0 Lick
+10.0 Ice Shard
+31.61.8 Aqua Tail
+22.51.6 Aurora Beam
+20.81.6 Aqua Jet
+18.21.8 Icy Wind
+
+
+Dewgong
+13.6 Iron Tail
+13.3 Frost Breath
+12.0 Ice Shard
+50.31.6 Blizzard
+27.01.9 Aurora Beam
+26.31.7 Water Pulse
+21.82.2 Icy Wind
+20.81.6 Aqua Jet
+
+
+Grimer
+15.0 Poison Jab
+13.5 Acid
+10.7 Mud-Slap
+41.71.9 Sludge Bomb
+28.61.8 Sludge
+23.91.7 Mud Bomb
+
+
+Muk
+15.0 Poison Jab
+13.5 Acid
+10.0 Lick
+9.1 Infestation
+50.31.6 Gunk Shot
+41.31.3 Sludge Wave
+26.71.6 Dark Pulse
+25.01.4 Thunder Punch
+
+
+Shellder
+10.0 Tackle
+10.0 Ice Shard
+28.41.6 Bubble Beam
+26.31.7 Water Pulse
+18.21.8 Icy Wind
+
+
+Cloyster
+13.3 Frost Breath
+12.0 Ice Shard
+50.31.6 Blizzard
+47.31.6 Hydro Pump
+40.02.2 Avalanche
+27.01.9 Aurora Beam
+21.82.2 Icy Wind
+
+
+Gastly
+12.0 Lick
+10.0 Sucker Punch
+8.7 Astonish
+41.71.9 Sludge Bomb
+27.71.4 Night Shade
+26.71.6 Dark Pulse
+26.11.8 Ominous Wind
+
+
+Haunter
+15.4 Shadow Claw
+12.0 Lick
+8.7 Astonish
+41.71.9 Sludge Bomb
+40.02.4 Shadow Ball
+28.21.5 Shadow Punch
+26.71.6 Dark Pulse
+
+
+Gengar
+15.4 Shadow Claw
+10.0 Sucker Punch
+10.0 Hex
+41.71.9 Sludge Bomb
+41.31.3 Sludge Wave
+40.01.4 Focus Blast
+40.02.4 Shadow Ball
+26.71.6 Dark Pulse
+
+
+Onix
+16.0 Rock Throw
+10.0 Tackle
+52.21.2 Stone Edge
+35.61.9 Rock Slide
+33.31.4 Heavy Slam
+31.61.2 Iron Head
+24.01.9 Sand Tomb
+
+
+Drowzee
+15.0 Confusion
+11.7 Pound
+42.91.2 Psychic
+28.92.4 Psyshock
+26.31.7 Psybeam
+
+
+Hypno
+15.0 Confusion
+13.1 Zen Headbutt
+53.31.4 Futuresight
+42.91.2 Psychic
+40.01.4 Focus Blast
+33.32.0 Shadow Ball
+28.92.4 Psyshock
+
+
+Krabby
+12.0 Bubble
+8.3 Mud Shot
+28.41.6 Bubble Beam
+26.31.7 Water Pulse
+18.41.1 Vice Grip
+
+
+Kingler
+12.0 Bubble
+11.4 Metal Claw
+8.3 Mud Shot
+28.11.4 X-Scissor
+26.31.7 Water Pulse
+18.41.1 Vice Grip
+
+
+
+
+
+
+Voltorb
+10.3 Spark
+10.0 Tackle
+38.41.9 Thunderbolt
+31.22.4 Discharge
+25.91.5 Signal Beam
+24.21.6 Gyro Ball
+
+
+Electrode
+10.4 Volt Switch
+10.3 Spark
+10.0 Tackle
+39.51.5 Hyper Beam
+38.41.9 Thunderbolt
+31.22.4 Discharge
+
+
+Exeggcute
+15.0 Confusion
+8.7 Bullet Seed
+42.91.2 Psychic
+31.42.0 Seed Bomb
+20.02.1 Ancient Power
+
+
+Exeggutor
+15.0 Confusion
+13.1 Zen Headbutt
+13.1 Extrasensory
+8.7 Bullet Seed
+44.12.2 Solar Beam
+42.91.2 Psychic
+31.42.0 Seed Bomb
+
+
+Cubone
+12.9 Mud-Slap
+11.5 Rock Smash
+30.01.5 Bone Club
+27.41.9 Bulldoze
+25.52.4 Dig
+
+
+Marowak
+12.9 Mud-Slap
+11.5 Rock Smash
+40.01.4 Earthquake
+30.01.5 Bone Club
+25.52.4 Dig
+
+
+Hitmonlee
+13.8 Rock Smash
+12.0 Low Kick
+52.21.2 Close Combat
+43.51.0 Stone Edge
+32.41.1 Stomp
+30.01.5 Brick Break
+25.31.5 Low Sweep
+
+
+Hitmonchan
+16.0 Counter
+13.8 Rock Smash
+10.0 Bullet Punch
+52.21.2 Close Combat
+30.01.5 Brick Break
+26.31.5 Ice Punch
+25.01.4 Thunder Punch
+25.01.7 Fire Punch
+
+
+Lickitung
+10.9 Zen Headbutt
+10.0 Lick
+47.41.8 Hyper Beam
+38.81.3 Stomp
+34.61.8 Power Whip
+
+
+Koffing
+13.5 Acid
+10.0 Tackle
+9.1 Infestation
+41.71.9 Sludge Bomb
+28.61.8 Sludge
+26.71.6 Dark Pulse
+
+
+Weezing
+13.5 Acid
+10.0 Tackle
+9.1 Infestation
+41.71.9 Sludge Bomb
+33.32.0 Shadow Ball
+32.01.6 Thunderbolt
+26.71.6 Dark Pulse
+
+
+Rhyhorn
+12.9 Mud-Slap
+11.5 Rock Smash
+32.41.1 Stomp
+27.41.9 Bulldoze
+21.61.2 Horn Attack
+
+
+Rhydon
+12.9 Mud-Slap
+11.5 Rock Smash
+52.21.2 Stone Edge
+40.90.9 Megahorn
+40.01.4 Earthquake
+38.21.3 Surf
+
+
+Chansey
+14.0 Pound
+10.9 Zen Headbutt
+47.41.8 Hyper Beam
+35.71.0 Psychic
+28.62.0 Dazzling Gleam
+21.91.4 Psybeam
+
+
+Tangela
+14.0 Vine Whip
+9.1 Infestation
+44.12.2 Solar Beam
+41.52.2 Power Whip
+41.52.2 Grass Knot
+34.81.6 Sludge Bomb
+
+
+Kangaskhan
+10.7 Mud-Slap
+10.0 Low Kick
+38.81.3 Stomp
+33.31.2 Earthquake
+28.22.2 Outrage
+25.01.2 Brick Break
+21.92.1 Crunch
+
+
+Horsea
+12.0 Water Gun
+12.0 Bubble
+37.01.0 Flash Cannon
+28.41.6 Bubble Beam
+25.01.8 Dragon Pulse
+
+
+Seadra
+12.0 Dragon Breath
+12.0 Water Gun
+47.31.6 Hydro Pump
+41.91.3 Blizzard
+25.01.8 Dragon Pulse
+22.51.6 Aurora Beam
+
+
+Goldeen
+10.0 Peck
+8.3 Mud Shot
+31.61.8 Aqua Tail
+26.31.7 Water Pulse
+21.61.2 Horn Attack
+
+
+Seaking
+16.0 Waterfall
+12.5 Poison Jab
+10.0 Peck
+40.90.9 Megahorn
+28.61.6 Drill Run
+27.31.8 Ice Beam
+26.31.7 Water Pulse
+18.21.8 Icy Wind
+
+
+Staryu
+12.0 Water Gun
+10.0 Quick Attack
+10.0 Tackle
+28.41.6 Bubble Beam
+27.61.6 Power Gem
+21.41.2 Swift
+
+
+Starmie
+12.0 Water Gun
+10.0 Quick Attack
+10.0 Tackle
+10.0 Hidden Power
+47.31.6 Hydro Pump
+42.91.2 Psychic
+41.71.0 Thunder
+27.61.6 Power Gem
+27.31.8 Ice Beam
+26.31.7 Psybeam
+
+
+Mr. Mime
+15.0 Confusion
+13.1 Zen Headbutt
+42.91.2 Psychic
+33.32.0 Shadow Ball
+26.31.7 Psybeam
+
+
+Scyther
+14.0 Air Slash
+13.8 Steel Wing
+9.0 Fury Cutter
+33.81.6 X-Scissor
+29.22.2 Bug Buzz
+27.52.0 Aerial Ace
+22.71.5 Night Slash
+
+
+Jynx
+15.0 Confusion
+13.3 Frost Breath
+11.7 Pound
+40.01.4 Focus Blast
+40.02.2 Avalanche
+31.61.8 Ice Punch
+28.92.4 Psyshock
+23.11.2 Draining Kiss
+
+
+Electabuzz
+10.0 Low Kick
+10.0 Thunder Shock
+50.01.2 Thunder
+38.41.9 Thunderbolt
+30.01.6 Thunder Punch
+
+
+Magmar
+12.0 Ember
+10.0 Karate Chop
+40.01.7 Fire Blast
+38.21.7 Flamethrower
+30.02.0 Fire Punch
+
+
+Pinsir
+12.0 Bug Bite
+11.5 Rock Smash
+9.0 Fury Cutter
+43.51.0 Close Combat
+33.81.6 X-Scissor
+27.31.2 Submission
+18.41.1 Vice Grip
+
+
+Tauros
+12.0 Tackle
+10.9 Zen Headbutt
+33.31.2 Earthquake
+31.61.2 Iron Head
+25.91.5 Horn Attack
+
+
+Magikarp
+0.0 Splash
+15.91.1 Struggle
+
+
+Gyarados
+16.0 Waterfall
+13.6 Dragon Tail
+12.0 Bite
+12.0 Dragon Breath
+47.31.6 Hydro Pump
+28.22.2 Outrage
+25.01.8 Dragon Pulse
+21.92.1 Crunch
+16.11.4 Twister
+
+
+Lapras
+13.3 Frost Breath
+12.0 Ice Shard
+12.0 Water Gun
+50.31.6 Blizzard
+47.31.6 Hydro Pump
+45.91.6 Surf
+32.72.2 Ice Beam
+25.01.8 Dragon Pulse
+
+
+Ditto
+0.0 Transform
+19.11.3 Struggle
+
+
+Eevee
+12.0 Quick Attack
+12.0 Tackle
+37.22.2 Last Resort
+31.61.8 Body Slam
+25.71.4 Swift
+21.32.0 Dig
+
+
+Vaporeon
+12.0 Water Gun
+47.31.6 Hydro Pump
+31.61.8 Aqua Tail
+26.31.7 Water Pulse
+
+
+Jolteon
+10.4 Volt Switch
+10.0 Thunder Shock
+50.01.2 Thunder
+38.41.9 Thunderbolt
+31.22.4 Discharge
+
+
+Flareon
+15.3 Fire Spin
+12.0 Ember
+48.01.9 Overheat
+40.01.7 Fire Blast
+38.21.7 Flamethrower
+38.01.1 Heat Wave
+
+
+Porygon
+12.0 Tackle
+12.0 Quick Attack
+12.0 Hidden Power
+10.9 Zen Headbutt
+7.3 Charge Beam
+47.41.8 Hyper Beam
+37.81.4 Zap Cannon
+36.71.8 Solar Beam
+26.02.0 Discharge
+25.91.5 Signal Beam
+21.91.4 Psybeam
+
+
+Omanyte
+12.0 Water Gun
+8.3 Mud Shot
+31.31.4 Brine
+28.61.8 Rock Blast
+28.41.6 Bubble Beam
+26.31.7 Rock Tomb
+24.02.5 Ancient Power
+
+
+Omastar
+16.0 Rock Throw
+12.0 Water Gun
+8.3 Mud Shot
+47.31.6 Hydro Pump
+35.61.9 Rock Slide
+28.61.8 Rock Blast
+24.02.5 Ancient Power
+
+
+Kabuto
+12.0 Scratch
+8.3 Mud Shot
+26.31.7 Rock Tomb
+24.02.5 Ancient Power
+20.81.6 Aqua Jet
+
+
+Kabutops
+16.0 Waterfall
+11.5 Rock Smash
+8.3 Mud Shot
+7.5 Fury Cutter
+52.21.2 Stone Edge
+26.31.7 Water Pulse
+24.02.5 Ancient Power
+
+
+Aerodactyl
+13.8 Steel Wing
+12.0 Bite
+39.51.5 Hyper Beam
+35.61.9 Rock Slide
+31.61.2 Iron Head
+24.02.5 Ancient Power
+
+
+Snorlax
+10.9 Zen Headbutt
+10.0 Lick
+47.41.8 Hyper Beam
+33.31.2 Earthquake
+33.31.4 Heavy Slam
+31.61.8 Body Slam
+28.22.2 Outrage
+
+
+Articuno
+13.3 Frost Breath
+50.31.6 Blizzard
+48.91.3 Hurricane
+32.72.2 Ice Beam
+21.82.2 Icy Wind
+
+
+Zapdos
+10.0 Thunder Shock
+8.7 Charge Beam
+50.01.2 Thunder
+45.41.7 Zap Cannon
+38.41.9 Thunderbolt
+31.22.4 Discharge
+
+
+Moltres
+15.3 Fire Spin
+12.0 Ember
+48.01.9 Overheat
+48.01.9 Sky Attack
+40.01.7 Fire Blast
+38.21.7 Flamethrower
+38.01.1 Heat Wave
+
+
+Dratini
+14.4 Dragon Breath
+13.6 Iron Tail
+26.31.5 Aqua Tail
+20.71.8 Wrap
+19.31.6 Twister
+
+
+Dragonair
+14.4 Dragon Breath
+13.6 Iron Tail
+30.02.2 Dragon Pulse
+26.31.5 Aqua Tail
+20.71.8 Wrap
+
+
+Dragonite
+16.4 Dragon Tail
+14.4 Dragon Breath
+13.8 Steel Wing
+50.01.8 Draco Meteor
+48.91.3 Hurricane
+39.51.5 Hyper Beam
+35.31.8 Dragon Claw
+33.82.6 Outrage
+30.02.2 Dragon Pulse
+
+
+Mewtwo
+15.0 Confusion
+10.0 Psycho Cut
+42.91.2 Psychic
+40.01.4 Focus Blast
+39.51.5 Hyper Beam
+33.32.0 Shadow Ball
+32.01.6 Thunderbolt
+31.81.4 Flamethrower
+27.31.8 Ice Beam
+
+
+Mew
+13.8 Steel Wing
+13.6 Dragon Tail
+13.3 Waterfall
+12.9 Shadow Claw
+12.5 Poison Jab
+11.7 Pound
+11.5 Rock Smash
+11.1 Frost Breath
+10.9 Snarl
+10.0 Struggle Bug
+10.0 Cut
+9.1 Infestation
+8.7 Volt Switch
+7.3 Charge Beam
+43.51.0 Stone Edge
+42.91.2 Psychic
+41.91.3 Blizzard
+41.71.0 Thunder
+40.01.4 Focus Blast
+40.01.6 Overheat
+39.51.5 Hyper Beam
+38.21.3 Surf
+37.01.0 Flash Cannon
+36.71.8 Solar Beam
+34.61.8 Grass Knot
+34.61.8 Wild Charge
+32.01.6 Thunderbolt
+29.61.6 Rock Slide
+29.41.5 Dragon Claw
+28.92.4 Psyshock
+28.62.0 Dazzling Gleam
+27.31.8 Ice Beam
+26.71.6 Dark Pulse
+24.21.6 Gyro Ball
+23.11.8 Energy Ball
+22.91.6 Bulldoze
+21.11.2 Low Sweep
+20.02.1 Ancient Power
+18.42.1 Flame Charge
+
+
+Chikorita
+14.0 Vine Whip
+10.0 Tackle
+41.52.2 Grass Knot
+27.72.2 Energy Ball
+26.31.5 Body Slam
+
+
+Bayleef
+15.6 Razor Leaf
+10.0 Tackle
+41.52.2 Grass Knot
+27.72.2 Energy Ball
+20.02.1 Ancient Power
+
+
+Meganium
+15.6 Razor Leaf
+14.0 Vine Whip
+50.81.3 Petal Blizzard
+46.22.4 Frenzy Plant
+44.12.2 Solar Beam
+33.31.2 Earthquake
+
+
+Cyndaquil
+12.0 Ember
+10.0 Tackle
+38.21.7 Flamethrower
+22.12.5 Flame Charge
+21.41.2 Swift
+
+
+Quilava
+12.0 Ember
+10.0 Tackle
+38.21.7 Flamethrower
+22.12.5 Flame Charge
+21.32.0 Dig
+
+
+Typhlosion
+12.9 Shadow Claw
+12.0 Ember
+48.01.9 Overheat
+40.01.7 Fire Blast
+40.02.6 Blast Burn
+40.02.6 Blast Burn
+36.71.8 Solar Beam
+
+
+Totodile
+12.0 Scratch
+12.0 Water Gun
+26.31.7 Water Pulse
+21.92.1 Crunch
+20.81.6 Aqua Jet
+
+
+Croconaw
+12.0 Scratch
+12.0 Water Gun
+26.31.5 Ice Punch
+26.31.7 Water Pulse
+21.92.1 Crunch
+
+
+Feraligatr
+16.0 Waterfall
+12.0 Water Gun
+12.0 Bite
+47.31.6 Hydro Pump
+27.31.8 Ice Beam
+21.92.1 Crunch
+
+
+Sentret
+14.4 Scratch
+12.0 Quick Attack
+34.61.8 Grass Knot
+25.01.2 Brick Break
+21.32.0 Dig
+
+
+Furret
+12.0 Quick Attack
+10.0 Sucker Punch
+47.41.8 Hyper Beam
+25.01.2 Brick Break
+21.32.0 Dig
+
+
+Hoothoot
+12.0 Peck
+11.1 Feint Attack
+48.01.9 Sky Attack
+27.52.0 Aerial Ace
+23.11.2 Night Shade
+
+
+Noctowl
+12.0 Wing Attack
+10.9 Extrasensory
+48.01.9 Sky Attack
+35.71.0 Psychic
+23.11.2 Night Shade
+
+
+Ledyba
+12.0 Bug Bite
+10.0 Tackle
+27.52.0 Aerial Ace
+22.72.5 Silver Wind
+21.41.2 Swift
+
+
+Ledian
+12.0 Bug Bite
+12.0 Struggle Bug
+29.22.2 Bug Buzz
+27.52.0 Aerial Ace
+22.72.5 Silver Wind
+
+
+Spinarak
+12.0 Bug Bite
+10.0 Poison Sting
+32.01.5 Cross Poison
+31.01.8 Signal Beam
+22.71.5 Night Slash
+
+
+Ariados
+10.9 Infestation
+10.0 Poison Sting
+49.11.1 Megahorn
+32.01.5 Cross Poison
+17.21.5 Shadow Sneak
+
+
+Crobat
+14.0 Air Slash
+12.0 Bite
+41.71.9 Sludge Bomb
+33.32.0 Shadow Ball
+26.71.4 Air Cutter
+
+
+Chinchou
+12.0 Bubble
+10.3 Spark
+38.41.9 Thunderbolt
+28.41.6 Bubble Beam
+26.31.7 Water Pulse
+
+
+Lanturn
+12.0 Water Gun
+10.3 Spark
+8.7 Charge Beam
+50.01.2 Thunder
+47.31.6 Hydro Pump
+38.41.9 Thunderbolt
+
+
+Pichu
+10.0 Quick Attack
+10.0 Thunder Shock
+38.41.9 Thunderbolt
+30.01.6 Thunder Punch
+17.92.1 Disarming Voice
+
+
+Cleffa
+11.7 Pound
+10.9 Zen Headbutt
+35.71.0 Psychic
+34.61.8 Grass Knot
+26.31.5 Body Slam
+25.91.5 Signal Beam
+24.12.0 Psyshock
+
+
+Igglybuff
+14.0 Pound
+11.1 Feint Attack
+35.71.0 Psychic
+34.61.8 Wild Charge
+33.32.0 Shadow Ball
+31.61.8 Body Slam
+
+
+Togepi
+10.9 Zen Headbutt
+10.0 Peck
+10.0 Hidden Power
+34.32.4 Dazzling Gleam
+24.12.0 Psyshock
+20.02.1 Ancient Power
+
+
+Togetic
+13.8 Steel Wing
+10.9 Zen Headbutt
+10.9 Extrasensory
+10.0 Hidden Power
+34.32.4 Dazzling Gleam
+27.52.0 Aerial Ace
+20.02.1 Ancient Power
+
+
+Natu
+12.0 Peck
+10.0 Quick Attack
+31.32.2 Drill Peck
+28.92.4 Psyshock
+23.11.2 Night Shade
+
+
+Xatu
+14.0 Air Slash
+11.1 Feint Attack
+53.31.4 Futuresight
+27.52.0 Aerial Ace
+21.71.5 Ominous Wind
+
+
+Mareep
+10.0 Tackle
+10.0 Thunder Shock
+38.41.9 Thunderbolt
+31.22.4 Discharge
+26.31.5 Body Slam
+
+
+Flaaffy
+10.0 Tackle
+8.7 Charge Beam
+38.41.9 Thunderbolt
+31.22.4 Discharge
+27.61.6 Power Gem
+
+
+Ampharos
+10.4 Volt Switch
+8.7 Charge Beam
+50.01.2 Thunder
+45.41.7 Zap Cannon
+40.01.4 Focus Blast
+27.61.6 Power Gem
+
+
+Bellossom
+15.6 Razor Leaf
+11.3 Acid
+50.81.3 Petal Blizzard
+35.02.5 Leaf Blade
+28.62.0 Dazzling Gleam
+
+
+Marill
+12.0 Bubble
+10.0 Tackle
+31.61.8 Aqua Tail
+28.41.6 Bubble Beam
+26.31.5 Body Slam
+
+
+Azumarill
+12.0 Bubble
+11.5 Rock Smash
+47.31.6 Hydro Pump
+37.22.2 Play Rough
+27.31.8 Ice Beam
+
+
+Sudowoodo
+16.0 Rock Throw
+13.3 Counter
+52.21.2 Stone Edge
+35.61.9 Rock Slide
+33.31.2 Earthquake
+
+
+Politoed
+12.0 Bubble
+8.3 Mud Shot
+47.31.6 Hydro Pump
+45.91.6 Surf
+41.91.3 Blizzard
+33.31.2 Earthquake
+
+
+Hoppip
+10.0 Tackle
+8.7 Bullet Seed
+41.52.2 Grass Knot
+31.42.0 Seed Bomb
+28.62.0 Dazzling Gleam
+
+
+Skiploom
+10.0 Tackle
+8.7 Bullet Seed
+41.52.2 Grass Knot
+28.62.0 Dazzling Gleam
+27.72.2 Energy Ball
+
+
+Jumpluff
+9.1 Infestation
+8.7 Bullet Seed
+44.12.2 Solar Beam
+28.62.0 Dazzling Gleam
+27.72.2 Energy Ball
+
+
+Aipom
+14.4 Scratch
+7.3 Astonish
+25.71.4 Swift
+22.91.7 Aerial Ace
+21.11.2 Low Sweep
+
+
+Sunkern
+15.6 Razor Leaf
+10.0 Cut
+41.52.2 Grass Knot
+31.42.0 Seed Bomb
+27.72.2 Energy Ball
+
+
+Sunflora
+15.6 Razor Leaf
+8.7 Bullet Seed
+50.81.3 Petal Blizzard
+44.12.2 Solar Beam
+34.81.6 Sludge Bomb
+
+
+Yanma
+12.0 Wing Attack
+10.0 Quick Attack
+27.52.0 Aerial Ace
+22.72.5 Silver Wind
+20.02.1 Ancient Power
+
+
+Wooper
+12.0 Water Gun
+10.0 Mud Shot
+28.72.0 Mud Bomb
+26.31.5 Body Slam
+25.52.4 Dig
+
+
+Quagsire
+12.0 Water Gun
+10.0 Mud Shot
+43.51.0 Stone Edge
+40.01.4 Earthquake
+34.81.6 Sludge Bomb
+
+
+Espeon
+15.0 Confusion
+13.1 Zen Headbutt
+53.31.4 Futuresight
+42.91.2 Psychic
+26.31.7 Psybeam
+
+
+Umbreon
+13.3 Feint Attack
+13.1 Snarl
+42.01.7 Foul Play
+32.01.9 Dark Pulse
+
+
+Murkrow
+13.3 Feint Attack
+12.0 Peck
+42.01.7 Foul Play
+32.01.9 Dark Pulse
+31.32.2 Drill Peck
+
+
+Slowking
+15.0 Confusion
+12.0 Water Gun
+42.91.2 Psychic
+41.91.3 Blizzard
+33.31.4 Fire Blast
+
+
+Misdreavus
+10.0 Hex
+8.7 Astonish
+26.71.6 Dark Pulse
+26.11.8 Ominous Wind
+20.71.8 Shadow Sneak
+
+
+Unown
+10.0 Hidden Power
+15.91.1 Struggle
+
+
+Wobbuffet
+13.3 Counter
+0.0 Splash
+27.71.4 Mirror Coat
+
+
+Girafarig
+15.0 Confusion
+12.0 Tackle
+42.91.2 Psychic
+32.01.6 Thunderbolt
+27.71.4 Mirror Coat
+
+
+Pineco
+12.0 Bug Bite
+10.0 Tackle
+24.21.6 Gyro Ball
+21.91.4 Rock Tomb
+20.01.6 Sand Tomb
+
+
+Forretress
+12.0 Bug Bite
+12.0 Struggle Bug
+40.01.7 Heavy Slam
+33.31.2 Earthquake
+21.91.4 Rock Tomb
+
+
+Dunsparce
+12.0 Bite
+7.3 Astonish
+29.61.6 Rock Slide
+28.61.6 Drill Run
+21.32.0 Dig
+
+
+Gligar
+12.0 Wing Attack
+7.5 Fury Cutter
+27.52.0 Aerial Ace
+25.52.4 Dig
+22.71.5 Night Slash
+
+
+Steelix
+16.4 Iron Tail
+13.6 Dragon Tail
+40.01.4 Earthquake
+40.01.7 Heavy Slam
+21.92.1 Crunch
+
+
+Snubbull
+12.0 Bite
+10.0 Tackle
+34.32.4 Dazzling Gleam
+25.01.2 Brick Break
+21.92.1 Crunch
+
+
+Granbull
+12.0 Bite
+10.9 Snarl
+43.51.0 Close Combat
+37.22.2 Play Rough
+21.92.1 Crunch
+
+
+Qwilfish
+12.0 Water Gun
+10.0 Poison Sting
+41.31.3 Sludge Wave
+31.61.8 Aqua Tail
+27.31.8 Ice Beam
+
+
+Scizor
+12.0 Bullet Punch
+9.0 Fury Cutter
+37.91.4 Iron Head
+33.81.6 X-Scissor
+22.71.5 Night Slash
+
+
+Shuckle
+16.0 Rock Throw
+12.0 Struggle Bug
+52.21.2 Stone Edge
+28.61.8 Rock Blast
+24.21.6 Gyro Ball
+
+
+Heracross
+16.0 Counter
+12.0 Struggle Bug
+52.21.2 Close Combat
+49.11.1 Megahorn
+33.31.2 Earthquake
+
+
+Sneasel
+13.3 Feint Attack
+12.0 Ice Shard
+42.01.7 Foul Play
+40.02.2 Avalanche
+31.61.8 Ice Punch
+
+
+Teddiursa
+14.4 Scratch
+10.0 Lick
+33.31.0 Cross Chop
+31.01.8 Play Rough
+21.92.1 Crunch
+
+
+Ursaring
+13.3 Counter
+12.9 Shadow Claw
+11.4 Metal Claw
+47.41.8 Hyper Beam
+43.51.0 Close Combat
+31.01.8 Play Rough
+
+
+Slugma
+13.3 Rock Throw
+12.0 Ember
+32.31.7 Flame Burst
+29.61.6 Rock Slide
+22.12.5 Flame Charge
+
+
+Magcargo
+16.0 Rock Throw
+12.0 Ember
+52.21.2 Stone Edge
+48.01.9 Overheat
+38.01.1 Heat Wave
+
+
+Swinub
+10.0 Tackle
+7.2 Powder Snow
+29.61.6 Rock Slide
+26.31.5 Body Slam
+21.82.2 Icy Wind
+
+
+Piloswine
+12.0 Ice Shard
+7.2 Powder Snow
+43.51.0 Stone Edge
+40.02.2 Avalanche
+27.41.9 Bulldoze
+
+
+Corsola
+12.0 Bubble
+10.0 Tackle
+33.11.9 Power Gem
+28.61.8 Rock Blast
+28.41.6 Bubble Beam
+
+
+Remoraid
+12.0 Water Gun
+8.3 Mud Shot
+26.31.7 Water Pulse
+23.81.5 Rock Blast
+22.51.6 Aurora Beam
+
+
+Octillery
+12.0 Water Gun
+8.3 Mud Shot
+41.91.3 Gunk Shot
+26.31.7 Water Pulse
+22.51.6 Aurora Beam
+
+
+Delibird
+12.0 Ice Shard
+10.0 Quick Attack
+3.8 Present
+31.61.8 Ice Punch
+27.52.0 Aerial Ace
+21.82.2 Icy Wind
+
+
+Mantine
+12.0 Bubble
+12.0 Wing Attack
+7.3 Bullet Seed
+27.52.0 Aerial Ace
+27.31.8 Ice Beam
+26.31.7 Water Pulse
+
+
+Skarmory
+16.5 Steel Wing
+14.0 Air Slash
+54.01.1 Brave Bird
+48.01.9 Sky Attack
+44.41.2 Flash Cannon
+
+
+Houndour
+13.3 Feint Attack
+12.0 Ember
+38.21.7 Flamethrower
+32.01.9 Dark Pulse
+26.32.5 Crunch
+
+
+Houndoom
+14.7 Fire Fang
+13.1 Snarl
+42.01.7 Foul Play
+40.01.7 Fire Blast
+38.21.7 Flamethrower
+26.32.5 Crunch
+
+
+Kingdra
+16.0 Waterfall
+14.4 Dragon Breath
+12.0 Water Gun
+47.31.6 Hydro Pump
+41.91.3 Blizzard
+33.82.6 Outrage
+
+
+Phanpy
+11.5 Rock Smash
+10.0 Tackle
+29.61.6 Rock Slide
+27.41.9 Bulldoze
+26.31.5 Body Slam
+
+
+Donphan
+13.3 Counter
+12.9 Mud-Slap
+10.0 Tackle
+40.01.4 Earthquake
+33.31.4 Heavy Slam
+31.01.8 Play Rough
+
+
+Porygon2
+12.0 Hidden Power
+7.3 Charge Beam
+47.41.8 Hyper Beam
+37.81.4 Zap Cannon
+36.71.8 Solar Beam
+
+
+Stantler
+12.0 Tackle
+10.9 Zen Headbutt
+40.90.9 Megahorn
+38.81.3 Stomp
+34.61.8 Wild Charge
+
+
+Smeargle
+12.0 Tackle
+19.11.3 Struggle
+
+
+Tyrogue
+13.8 Rock Smash
+10.0 Tackle
+30.01.5 Brick Break
+29.61.6 Rock Slide
+25.31.5 Low Sweep
+
+
+Hitmontop
+16.0 Counter
+13.8 Rock Smash
+52.21.2 Close Combat
+43.51.0 Stone Edge
+24.21.6 Gyro Ball
+
+
+Smoochum
+13.3 Frost Breath
+11.7 Pound
+7.2 Powder Snow
+32.72.2 Ice Beam
+31.61.8 Ice Punch
+28.92.4 Psyshock
+
+
+Elekid
+10.0 Low Kick
+10.0 Thunder Shock
+38.41.9 Thunderbolt
+31.22.4 Discharge
+30.01.6 Thunder Punch
+25.01.2 Brick Break
+
+
+Magby
+12.0 Ember
+10.0 Karate Chop
+38.21.7 Flamethrower
+32.31.7 Flame Burst
+30.02.0 Fire Punch
+25.01.2 Brick Break
+
+
+Miltank
+12.0 Tackle
+10.9 Zen Headbutt
+38.81.3 Stomp
+32.01.6 Thunderbolt
+31.61.8 Body Slam
+27.31.8 Ice Beam
+24.21.6 Gyro Ball
+
+
+Blissey
+14.0 Pound
+10.9 Zen Headbutt
+47.41.8 Hyper Beam
+35.71.0 Psychic
+28.62.0 Dazzling Gleam
+
+
+Raikou
+10.4 Volt Switch
+10.0 Thunder Shock
+50.01.2 Thunder
+41.52.2 Wild Charge
+38.41.9 Thunderbolt
+33.32.0 Shadow Ball
+
+
+Entei
+15.3 Fire Spin
+14.7 Fire Fang
+48.01.9 Overheat
+40.01.7 Fire Blast
+38.21.7 Flamethrower
+31.61.2 Iron Head
+
+
+Suicune
+10.9 Extrasensory
+10.9 Snarl
+47.31.6 Hydro Pump
+28.41.6 Bubble Beam
+27.31.8 Ice Beam
+26.31.7 Water Pulse
+
+
+Larvitar
+12.0 Bite
+11.5 Rock Smash
+32.41.1 Stomp
+24.02.5 Ancient Power
+21.92.1 Crunch
+
+
+Pupitar
+12.0 Bite
+11.5 Rock Smash
+25.52.4 Dig
+24.02.5 Ancient Power
+21.92.1 Crunch
+
+
+Tyranitar
+16.0 Smack Down
+14.4 Bite
+13.6 Iron Tail
+52.21.2 Stone Edge
+33.31.4 Fire Blast
+26.32.5 Crunch
+
+
+Lugia
+13.6 Dragon Tail
+13.1 Extrasensory
+53.31.4 Futuresight
+48.01.9 Sky Attack
+39.41.3 Hydro Pump
+
+
+Ho-Oh
+13.8 Steel Wing
+10.9 Extrasensory
+10.0 Hidden Power
+54.01.1 Brave Bird
+40.01.7 Fire Blast
+36.71.8 Solar Beam
+
+
+Celebi
+15.0 Confusion
+7.3 Charge Beam
+42.91.2 Psychic
+39.51.5 Hyper Beam
+28.62.0 Dazzling Gleam
+
+
+Treecko
+11.7 Pound
+8.7 Bullet Seed
+41.52.2 Grass Knot
+27.72.2 Energy Ball
+22.91.7 Aerial Ace
+
+
+Grovyle
+10.0 Quick Attack
+8.7 Bullet Seed
+41.52.2 Grass Knot
+35.02.5 Leaf Blade
+22.91.7 Aerial Ace
+
+
+Sceptile
+8.7 Bullet Seed
+7.5 Fury Cutter
+35.02.5 Leaf Blade
+33.31.2 Earthquake
+22.91.7 Aerial Ace
+
+
+Torchic
+12.0 Scratch
+12.0 Ember
+38.21.7 Flamethrower
+22.12.5 Flame Charge
+21.91.4 Rock Tomb
+
+
+Combusken
+12.0 Ember
+10.0 Peck
+38.21.7 Flamethrower
+29.61.6 Rock Slide
+22.12.5 Flame Charge
+
+
+Blaziken
+16.0 Counter
+15.3 Fire Spin
+48.01.9 Overheat
+48.01.7 Focus Blast
+45.00.9 Brave Bird
+43.51.0 Stone Edge
+
+
+Mudkip
+12.0 Water Gun
+10.0 Tackle
+32.41.1 Stomp
+23.81.5 Sludge
+21.32.0 Dig
+
+
+Marshtomp
+12.0 Water Gun
+10.0 Mud Shot
+45.91.6 Surf
+28.72.0 Mud Bomb
+23.81.5 Sludge
+
+
+Swampert
+12.0 Water Gun
+10.0 Mud Shot
+45.91.6 Surf
+40.01.4 Earthquake
+34.41.1 Sludge Wave
+
+
+Poochyena
+13.1 Snarl
+10.0 Tackle
+26.32.5 Crunch
+21.32.0 Dig
+20.61.1 Poison Fang
+
+
+Mightyena
+14.4 Bite
+12.2 Fire Fang
+31.01.8 Play Rough
+26.32.5 Crunch
+20.61.1 Poison Fang
+
+
+Zigzagoon
+12.0 Tackle
+11.5 Rock Smash
+34.61.8 Grass Knot
+32.01.6 Thunderbolt
+21.32.0 Dig
+
+
+Linoone
+12.9 Shadow Claw
+12.0 Tackle
+41.71.0 Thunder
+34.61.8 Grass Knot
+21.32.0 Dig
+
+
+Wurmple
+12.0 Bug Bite
+10.0 Tackle
+15.91.1 Struggle
+
+
+Silcoon
+12.0 Bug Bite
+8.3 Poison Sting
+15.91.1 Struggle
+
+
+Beautifly
+12.0 Struggle Bug
+10.9 Infestation
+29.22.2 Bug Buzz
+26.71.4 Air Cutter
+22.72.5 Silver Wind
+
+
+Cascoon
+12.0 Bug Bite
+8.3 Poison Sting
+15.91.1 Struggle
+
+
+Dustox
+12.5 Confusion
+12.0 Struggle Bug
+41.71.9 Sludge Bomb
+29.22.2 Bug Buzz
+22.72.5 Silver Wind
+
+
+Lotad
+15.6 Razor Leaf
+12.0 Water Gun
+28.41.6 Bubble Beam
+27.72.2 Energy Ball
+
+
+Lombre
+15.6 Razor Leaf
+12.0 Bubble
+41.52.2 Grass Knot
+28.41.6 Bubble Beam
+27.31.8 Ice Beam
+
+
+Ludicolo
+15.6 Razor Leaf
+12.0 Bubble
+47.31.6 Hydro Pump
+44.12.2 Solar Beam
+41.91.3 Blizzard
+27.31.8 Ice Beam
+
+
+Seedot
+10.0 Quick Attack
+8.7 Bullet Seed
+41.52.2 Grass Knot
+35.01.4 Foul Play
+27.72.2 Energy Ball
+
+
+Nuzleaf
+15.6 Razor Leaf
+13.3 Feint Attack
+42.01.7 Foul Play
+41.52.2 Grass Knot
+35.02.5 Leaf Blade
+
+
+Shiftry
+15.6 Razor Leaf
+13.3 Feint Attack
+42.01.7 Foul Play
+40.71.1 Hurricane
+35.02.5 Leaf Blade
+
+
+Taillow
+12.0 Peck
+12.0 Quick Attack
+27.52.0 Aerial Ace
+
+
+Swellow
+13.8 Steel Wing
+12.0 Wing Attack
+54.01.1 Brave Bird
+48.01.9 Sky Attack
+27.52.0 Aerial Ace
+
+
+Wingull
+12.0 Water Gun
+10.0 Quick Attack
+27.31.8 Ice Beam
+26.71.4 Air Cutter
+26.31.7 Water Pulse
+
+
+Pelipper
+12.0 Water Gun
+12.0 Wing Attack
+48.91.3 Hurricane
+47.31.6 Hydro Pump
+41.91.3 Blizzard
+
+
+Ralts
+15.0 Confusion
+7.3 Charge Beam
+28.92.4 Psyshock
+21.52.5 Disarming Voice
+17.21.5 Shadow Sneak
+
+
+Kirlia
+15.0 Confusion
+7.3 Charge Beam
+42.91.2 Psychic
+21.52.5 Disarming Voice
+17.21.5 Shadow Sneak
+
+
+Gardevoir
+15.0 Confusion
+7.3 Charge Beam
+42.91.2 Psychic
+34.32.4 Dazzling Gleam
+33.32.0 Shadow Ball
+
+
+Surskit
+12.0 Bubble
+12.0 Bug Bite
+31.01.8 Signal Beam
+28.41.6 Bubble Beam
+20.81.6 Aqua Jet
+
+
+Masquerain
+14.0 Air Slash
+10.9 Infestation
+26.71.4 Air Cutter
+22.72.5 Silver Wind
+21.71.5 Ominous Wind
+
+
+Shroomish
+10.0 Tackle
+8.7 Bullet Seed
+41.52.2 Grass Knot
+31.42.0 Seed Bomb
+27.72.2 Energy Ball
+
+
+Breloom
+16.0 Counter
+8.7 Bullet Seed
+40.02.2 Dynamic Punch
+34.81.6 Sludge Bomb
+31.42.0 Seed Bomb
+
+
+Slakoth
+0.0 Yawn
+31.61.8 Body Slam
+25.01.2 Brick Break
+22.71.5 Night Slash
+
+
+Vigoroth
+14.4 Scratch
+13.3 Counter
+31.61.8 Body Slam
+25.01.2 Brick Break
+22.91.6 Bulldoze
+
+
+Slaking
+0.0 Yawn
+47.41.8 Hyper Beam
+33.31.2 Earthquake
+31.01.8 Play Rough
+
+
+Nincada
+12.0 Scratch
+12.0 Bug Bite
+29.22.2 Bug Buzz
+22.91.7 Aerial Ace
+22.71.5 Night Slash
+
+
+Ninjask
+11.4 Metal Claw
+9.0 Fury Cutter
+33.32.0 Shadow Ball
+29.22.2 Bug Buzz
+27.52.0 Aerial Ace
+
+
+Shedinja
+15.4 Shadow Claw
+12.0 Bug Bite
+22.91.7 Aerial Ace
+21.32.0 Dig
+20.71.8 Shadow Sneak
+
+
+Whismur
+14.0 Pound
+7.3 Astonish
+38.81.3 Stomp
+31.81.4 Flamethrower
+17.92.1 Disarming Voice
+
+
+Loudred
+12.0 Bite
+11.5 Rock Smash
+38.81.3 Stomp
+31.81.4 Flamethrower
+21.92.1 Crunch
+17.92.1 Disarming Voice
+
+
+Exploud
+12.0 Bite
+7.3 Astonish
+33.31.4 Fire Blast
+21.92.1 Crunch
+17.92.1 Disarming Voice
+
+
+Makuhita
+13.8 Rock Smash
+10.0 Tackle
+40.01.2 Cross Chop
+33.31.4 Heavy Slam
+25.31.5 Low Sweep
+
+
+Hariyama
+16.0 Counter
+10.0 Bullet Punch
+52.21.2 Close Combat
+40.02.2 Dynamic Punch
+33.31.4 Heavy Slam
+
+
+Azurill
+10.0 Bubble
+0.0 Splash
+31.61.8 Body Slam
+27.31.8 Ice Beam
+23.71.4 Bubble Beam
+
+
+Nosepass
+16.0 Rock Throw
+8.6 Spark
+35.61.9 Rock Slide
+32.01.6 Thunderbolt
+28.61.8 Rock Blast
+
+
+Skitty
+12.0 Tackle
+11.1 Feint Attack
+34.61.8 Wild Charge
+21.32.0 Dig
+17.92.1 Disarming Voice
+
+
+Delcatty
+11.1 Feint Attack
+10.9 Zen Headbutt
+34.61.8 Wild Charge
+31.01.8 Play Rough
+17.92.1 Disarming Voice
+
+
+Sableye
+15.4 Shadow Claw
+13.3 Feint Attack
+42.01.7 Foul Play
+27.61.6 Power Gem
+20.71.8 Shadow Sneak
+
+
+Mawile
+12.0 Bite
+7.3 Astonish
+37.91.4 Iron Head
+37.22.2 Play Rough
+18.41.1 Vice Grip
+
+
+Aron
+13.7 Metal Claw
+10.0 Tackle
+37.91.4 Iron Head
+26.31.5 Body Slam
+26.31.7 Rock Tomb
+
+
+Lairon
+16.4 Iron Tail
+13.7 Metal Claw
+40.01.7 Heavy Slam
+35.61.9 Rock Slide
+26.31.5 Body Slam
+
+
+Aggron
+16.4 Iron Tail
+13.6 Dragon Tail
+52.21.2 Stone Edge
+41.71.0 Thunder
+40.01.7 Heavy Slam
+
+
+Meditite
+15.0 Confusion
+13.8 Rock Smash
+28.92.4 Psyshock
+26.31.5 Ice Punch
+25.31.5 Low Sweep
+
+
+Medicham
+16.0 Counter
+10.0 Psycho Cut
+42.91.2 Psychic
+40.02.2 Dynamic Punch
+26.31.5 Ice Punch
+
+
+Electrike
+10.3 Spark
+10.0 Quick Attack
+38.41.9 Thunderbolt
+31.22.4 Discharge
+21.41.2 Swift
+
+
+Manectric
+10.9 Snarl
+8.7 Charge Beam
+50.01.2 Thunder
+41.52.2 Wild Charge
+26.91.4 Flame Burst
+
+
+Plusle
+10.3 Spark
+10.0 Quick Attack
+38.41.9 Thunderbolt
+31.22.4 Discharge
+21.41.2 Swift
+
+
+Minun
+10.3 Spark
+10.0 Quick Attack
+38.41.9 Thunderbolt
+31.22.4 Discharge
+21.41.2 Swift
+
+
+Volbeat
+12.0 Struggle Bug
+10.0 Tackle
+32.01.6 Thunderbolt
+31.01.8 Signal Beam
+29.22.2 Bug Buzz
+
+
+Illumise
+12.0 Struggle Bug
+10.0 Tackle
+29.22.2 Bug Buzz
+28.62.0 Dazzling Gleam
+22.72.5 Silver Wind
+
+
+Roselia
+15.6 Razor Leaf
+15.0 Poison Jab
+50.81.3 Petal Blizzard
+41.71.9 Sludge Bomb
+28.62.0 Dazzling Gleam
+
+
+Gulpin
+11.7 Pound
+11.5 Rock Smash
+50.31.6 Gunk Shot
+28.61.8 Sludge
+27.31.8 Ice Beam
+
+
+Swalot
+11.5 Rock Smash
+9.1 Infestation
+50.31.6 Gunk Shot
+41.71.9 Sludge Bomb
+27.31.8 Ice Beam
+
+
+Carvanha
+14.4 Bite
+13.1 Snarl
+26.32.5 Crunch
+20.81.6 Aqua Jet
+20.61.1 Poison Fang
+
+
+Sharpedo
+16.0 Waterfall
+14.4 Bite
+47.31.6 Hydro Pump
+26.32.5 Crunch
+20.61.1 Poison Fang
+
+
+Wailmer
+12.0 Water Gun
+0.0 Splash
+33.31.4 Heavy Slam
+26.31.5 Body Slam
+26.31.7 Water Pulse
+
+
+Wailord
+12.0 Water Gun
+10.9 Zen Headbutt
+45.91.6 Surf
+41.91.3 Blizzard
+39.51.5 Hyper Beam
+
+
+Numel
+12.0 Ember
+10.0 Tackle
+38.01.1 Heat Wave
+32.41.1 Stomp
+27.41.9 Bulldoze
+
+
+Camerupt
+12.0 Ember
+11.5 Rock Smash
+48.01.9 Overheat
+40.01.4 Earthquake
+36.71.8 Solar Beam
+
+
+Torkoal
+15.3 Fire Spin
+12.0 Ember
+48.01.9 Overheat
+36.71.8 Solar Beam
+33.31.2 Earthquake
+
+
+Spoink
+13.1 Zen Headbutt
+0.0 Splash
+33.32.0 Shadow Ball
+27.71.4 Mirror Coat
+26.31.7 Psybeam
+
+
+Grumpig
+13.1 Extrasensory
+7.3 Charge Beam
+42.91.2 Psychic
+33.32.0 Shadow Ball
+27.71.4 Mirror Coat
+
+
+Spinda
+10.0 Sucker Punch
+8.3 Psycho Cut
+21.91.4 Rock Tomb
+21.32.0 Dig
+18.21.8 Icy Wind
+
+
+Trapinch
+10.0 Struggle Bug
+10.0 Mud Shot
+25.52.4 Dig
+24.01.9 Sand Tomb
+21.92.1 Crunch
+
+
+Vibrava
+14.4 Dragon Breath
+10.0 Mud Shot
+27.41.9 Bulldoze
+24.31.8 Bug Buzz
+24.01.9 Sand Tomb
+
+
+Flygon
+16.4 Dragon Tail
+10.0 Mud Shot
+43.51.0 Stone Edge
+40.01.4 Earthquake
+35.31.8 Dragon Claw
+
+
+Cacnea
+10.0 Sucker Punch
+8.3 Poison Sting
+41.52.2 Grass Knot
+31.42.0 Seed Bomb
+25.01.2 Brick Break
+
+
+Cacturne
+12.5 Poison Jab
+12.0 Sucker Punch
+41.52.2 Grass Knot
+33.31.8 Dynamic Punch
+32.01.9 Dark Pulse
+
+
+Swablu
+12.0 Peck
+7.3 Astonish
+27.52.0 Aerial Ace
+27.31.8 Ice Beam
+17.92.1 Disarming Voice
+
+
+Altaria
+14.4 Dragon Breath
+12.0 Peck
+48.01.9 Sky Attack
+30.02.2 Dragon Pulse
+28.62.0 Dazzling Gleam
+
+
+Zangoose
+12.9 Shadow Claw
+7.5 Fury Cutter
+43.51.0 Close Combat
+22.71.5 Night Slash
+21.32.0 Dig
+
+
+Seviper
+15.0 Poison Jab
+13.6 Iron Tail
+24.71.3 Poison Fang
+21.92.1 Crunch
+20.71.8 Wrap
+
+
+Lunatone
+16.0 Rock Throw
+15.0 Confusion
+42.91.2 Psychic
+35.61.9 Rock Slide
+33.31.3 Moonblast
+
+
+Solrock
+16.0 Rock Throw
+15.0 Confusion
+42.91.2 Psychic
+36.71.8 Solar Beam
+35.61.9 Rock Slide
+
+
+Barboach
+12.0 Water Gun
+10.0 Mud Shot
+31.61.8 Aqua Tail
+28.72.0 Mud Bomb
+27.31.8 Ice Beam
+
+
+Whiscash
+12.0 Water Gun
+10.0 Mud Shot
+41.91.3 Blizzard
+28.72.0 Mud Bomb
+26.31.7 Water Pulse
+
+
+Corphish
+12.0 Bubble
+11.5 Rock Smash
+28.41.6 Bubble Beam
+20.81.6 Aqua Jet
+18.41.1 Vice Grip
+
+
+Crawdaunt
+16.0 Waterfall
+13.1 Snarl
+28.41.6 Bubble Beam
+27.31.8 Night Slash
+18.41.1 Vice Grip
+
+
+Baltoy
+15.0 Confusion
+13.1 Extrasensory
+26.31.7 Psybeam
+25.52.4 Dig
+24.21.6 Gyro Ball
+
+
+Claydol
+15.0 Confusion
+13.1 Extrasensory
+42.91.2 Psychic
+40.01.4 Earthquake
+24.21.6 Gyro Ball
+
+
+Lileep
+11.3 Acid
+9.1 Infestation
+41.52.2 Grass Knot
+24.02.5 Ancient Power
+23.11.2 Mirror Coat
+
+
+Cradily
+11.3 Acid
+9.1 Infestation
+52.21.2 Stone Edge
+41.52.2 Grass Knot
+22.91.6 Bulldoze
+
+
+Anorith
+12.0 Struggle Bug
+12.0 Scratch
+26.71.2 Cross Poison
+24.02.5 Ancient Power
+17.31.4 Aqua Jet
+
+
+Armaldo
+12.0 Struggle Bug
+9.0 Fury Cutter
+28.61.8 Rock Blast
+26.71.2 Cross Poison
+21.91.4 Water Pulse
+
+
+Feebas
+10.0 Tackle
+0.0 Splash
+23.11.2 Mirror Coat
+
+
+Milotic
+16.0 Waterfall
+13.6 Dragon Tail
+12.0 Water Gun
+45.91.6 Surf
+41.91.3 Blizzard
+39.51.5 Hyper Beam
+
+
+Castform
+12.0 Tackle
+8.3 Hex
+40.71.1 Hurricane
+37.51.8 Weather Ball
+23.11.8 Energy Ball
+
+
+Kecleon
+10.0 Lick
+10.0 Sucker Punch
+41.71.0 Thunder
+35.01.4 Foul Play
+31.81.4 Flamethrower
+27.31.8 Ice Beam
+22.91.7 Aerial Ace
+17.21.5 Shadow Sneak
+
+
+Shuppet
+11.1 Feint Attack
+8.7 Astonish
+27.71.4 Night Shade
+26.11.8 Ominous Wind
+20.71.8 Shadow Sneak
+
+
+Banette
+15.4 Shadow Claw
+10.0 Hex
+41.71.0 Thunder
+40.02.4 Shadow Ball
+28.62.0 Dazzling Gleam
+
+
+Duskull
+10.0 Hex
+8.7 Astonish
+27.71.4 Night Shade
+26.11.8 Ominous Wind
+20.71.8 Shadow Sneak
+
+
+Dusclops
+11.1 Feint Attack
+10.0 Hex
+28.21.5 Shadow Punch
+26.31.5 Ice Punch
+25.01.7 Fire Punch
+
+
+Tropius
+15.6 Razor Leaf
+14.0 Air Slash
+35.02.5 Leaf Blade
+32.41.1 Stomp
+27.52.0 Aerial Ace
+
+
+Chimecho
+13.1 Extrasensory
+7.3 Astonish
+33.32.0 Shadow Ball
+28.92.4 Psyshock
+23.11.8 Energy Ball
+
+
+Absol
+13.1 Snarl
+8.3 Psycho Cut
+41.71.0 Thunder
+40.90.9 Megahorn
+32.01.9 Dark Pulse
+
+
+Wynaut
+13.3 Counter
+0.0 Splash
+27.71.4 Mirror Coat
+
+
+Snorunt
+8.3 Hex
+7.2 Powder Snow
+40.02.2 Avalanche
+33.32.0 Shadow Ball
+21.82.2 Icy Wind
+
+
+Glalie
+13.3 Frost Breath
+12.0 Ice Shard
+40.02.2 Avalanche
+33.32.0 Shadow Ball
+24.21.6 Gyro Ball
+
+
+Spheal
+12.0 Water Gun
+11.5 Rock Smash
+27.01.9 Aurora Beam
+26.31.5 Body Slam
+26.31.7 Water Pulse
+
+
+Sealeo
+12.0 Water Gun
+7.2 Powder Snow
+27.01.9 Aurora Beam
+26.31.5 Body Slam
+26.31.7 Water Pulse
+
+
+Walrein
+16.0 Waterfall
+13.3 Frost Breath
+50.31.6 Blizzard
+33.31.2 Earthquake
+26.31.7 Water Pulse
+
+
+Clamperl
+12.0 Water Gun
+27.31.8 Ice Beam
+26.31.5 Body Slam
+26.31.7 Water Pulse
+
+
+Huntail
+12.0 Water Gun
+12.0 Bite
+31.61.8 Aqua Tail
+27.31.8 Ice Beam
+21.92.1 Crunch
+
+
+Gorebyss
+12.5 Confusion
+12.0 Water Gun
+35.71.0 Psychic
+26.31.7 Water Pulse
+23.11.2 Draining Kiss
+
+
+Relicanth
+12.0 Water Gun
+10.9 Zen Headbutt
+47.31.6 Hydro Pump
+31.61.8 Aqua Tail
+24.02.5 Ancient Power
+
+
+Luvdisc
+12.0 Water Gun
+0.0 Splash
+26.31.7 Water Pulse
+23.11.2 Draining Kiss
+20.81.6 Aqua Jet
+
+
+Bagon
+12.0 Bite
+10.0 Ember
+31.81.4 Flamethrower
+21.92.1 Crunch
+19.31.6 Twister
+
+
+Shelgon
+14.4 Dragon Breath
+10.0 Ember
+31.81.4 Flamethrower
+30.02.2 Dragon Pulse
+19.31.6 Twister
+
+
+Salamence
+16.4 Dragon Tail
+12.2 Fire Fang
+12.0 Bite
+50.01.8 Draco Meteor
+39.41.3 Hydro Pump
+33.31.4 Fire Blast
+
+
+Beldum
+6.7 Take Down
+15.91.1 Struggle
+
+
+Metang
+13.7 Metal Claw
+13.1 Zen Headbutt
+42.91.2 Psychic
+29.11.9 Gyro Ball
+28.92.4 Psyshock
+
+
+Metagross
+13.1 Zen Headbutt
+12.0 Bullet Punch
+46.22.4 Meteor Mash
+44.41.2 Flash Cannon
+42.91.2 Psychic
+33.31.2 Earthquake
+
+
+Regirock
+16.0 Rock Throw
+11.5 Rock Smash
+52.21.2 Stone Edge
+40.01.4 Focus Blast
+37.81.4 Zap Cannon
+
+
+Regice
+13.3 Frost Breath
+11.5 Rock Smash
+50.31.6 Blizzard
+40.01.4 Focus Blast
+33.31.2 Earthquake
+
+
+Registeel
+13.7 Metal Claw
+11.5 Rock Smash
+44.41.2 Flash Cannon
+40.01.4 Focus Blast
+39.51.5 Hyper Beam
+
+
+Latias
+14.4 Dragon Breath
+13.1 Zen Headbutt
+42.91.2 Psychic
+41.71.0 Thunder
+33.82.6 Outrage
+
+
+Latios
+14.4 Dragon Breath
+13.1 Zen Headbutt
+42.91.2 Psychic
+36.71.8 Solar Beam
+35.31.8 Dragon Claw
+
+
+Kyogre
+16.0 Waterfall
+13.6 Dragon Tail
+47.31.6 Hydro Pump
+41.91.3 Blizzard
+41.71.0 Thunder
+
+
+Groudon
+13.6 Dragon Tail
+10.0 Mud Shot
+40.01.4 Earthquake
+36.71.8 Solar Beam
+33.31.4 Fire Blast
+
+
+Rayquaza
+16.4 Dragon Tail
+14.0 Air Slash
+33.82.6 Outrage
+27.52.0 Aerial Ace
+20.02.1 Ancient Power
+
+
+Jirachi
+15.0 Confusion
+7.3 Charge Beam
+56.51.9 Doom Desire
+42.91.2 Psychic
+28.62.0 Dazzling Gleam
+
+
+Deoxys
+13.1 Zen Headbutt
+7.3 Charge Beam
+39.51.5 Hyper Beam
+32.01.6 Thunderbolt
+21.01.7 Psycho Boost
+
+
+Turtwig
+15.6 Razor Leaf
+10.0 Tackle
+31.42.0 Seed Bomb
+27.72.2 Energy Ball
+26.31.5 Body Slam
+
+
+Grotle
+15.6 Razor Leaf
+12.0 Bite
+44.12.2 Solar Beam
+27.72.2 Energy Ball
+26.31.5 Body Slam
+
+
+Torterra
+15.6 Razor Leaf
+12.0 Bite
+44.12.2 Solar Beam
+43.51.0 Stone Edge
+40.01.4 Earthquake
+
+
+Chimchar
+12.0 Ember
+12.0 Scratch
+38.21.7 Flamethrower
+26.71.4 Flame Wheel
+22.12.5 Flame Charge
+
+
+Monferno
+13.8 Rock Smash
+12.0 Ember
+38.21.7 Flamethrower
+26.71.4 Flame Wheel
+25.31.5 Low Sweep
+
+
+Infernape
+15.3 Fire Spin
+13.8 Rock Smash
+52.21.2 Close Combat
+38.21.7 Flamethrower
+36.71.8 Solar Beam
+
+
+Piplup
+12.0 Bubble
+11.7 Pound
+28.41.6 Bubble Beam
+26.11.8 Drill Peck
+18.21.8 Icy Wind
+
+
+Prinplup
+12.0 Bubble
+11.4 Metal Claw
+47.31.6 Hydro Pump
+28.41.6 Bubble Beam
+18.21.8 Icy Wind
+
+
+Empoleon
+16.0 Waterfall
+13.7 Metal Claw
+47.31.6 Hydro Pump
+44.41.2 Flash Cannon
+41.91.3 Blizzard
+
+
+Starly
+12.0 Tackle
+12.0 Quick Attack
+54.01.1 Brave Bird
+27.52.0 Aerial Ace
+
+
+Staravia
+12.0 Wing Attack
+12.0 Quick Attack
+54.01.1 Brave Bird
+31.71.0 Heat Wave
+27.52.0 Aerial Ace
+
+
+Staraptor
+12.0 Wing Attack
+12.0 Quick Attack
+54.01.1 Brave Bird
+43.51.0 Close Combat
+31.71.0 Heat Wave
+
+
+Bidoof
+12.0 Tackle
+8.0 Take Down
+38.41.9 Hyper Fang
+34.61.8 Grass Knot
+21.92.1 Crunch
+
+
+Bibarel
+12.0 Water Gun
+8.0 Take Down
+47.41.8 Hyper Beam
+45.91.6 Surf
+38.41.9 Hyper Fang
+
+
+Kricketot
+12.0 Struggle Bug
+12.0 Bug Bite
+15.91.1 Struggle
+
+
+Kricketune
+12.0 Struggle Bug
+9.0 Fury Cutter
+33.81.6 X-Scissor
+29.22.2 Bug Buzz
+22.91.7 Aerial Ace
+
+
+Shinx
+10.3 Spark
+10.0 Tackle
+38.41.9 Thunderbolt
+31.22.4 Discharge
+21.41.2 Swift
+
+
+Luxio
+12.0 Bite
+10.3 Spark
+41.52.2 Wild Charge
+38.41.9 Thunderbolt
+21.92.1 Crunch
+
+
+Luxray
+10.9 Snarl
+10.3 Spark
+10.0 Hidden Power
+41.52.2 Wild Charge
+39.51.5 Hyper Beam
+21.92.1 Crunch
+
+
+Budew
+15.6 Razor Leaf
+10.0 Hidden Power
+41.52.2 Grass Knot
+27.72.2 Energy Ball
+
+
+Roserade
+15.6 Razor Leaf
+15.0 Poison Jab
+44.12.2 Solar Beam
+41.71.9 Sludge Bomb
+41.52.2 Grass Knot
+28.62.0 Dazzling Gleam
+
+
+Cranidos
+10.9 Zen Headbutt
+6.7 Take Down
+26.31.7 Rock Tomb
+24.02.5 Ancient Power
+22.91.6 Bulldoze
+
+
+Rampardos
+16.0 Smack Down
+10.9 Zen Headbutt
+35.61.9 Rock Slide
+31.81.4 Flamethrower
+28.22.2 Outrage
+
+
+Shieldon
+16.4 Iron Tail
+10.0 Tackle
+40.01.7 Heavy Slam
+26.31.7 Rock Tomb
+24.02.5 Ancient Power
+
+
+Bastiodon
+16.4 Iron Tail
+16.0 Smack Down
+52.21.2 Stone Edge
+44.41.2 Flash Cannon
+31.81.4 Flamethrower
+
+
+Burmy
+12.0 Bug Bite
+10.0 Tackle
+15.91.1 Struggle
+
+
+Wormadam
+12.5 Confusion
+12.0 Bug Bite
+29.22.2 Bug Buzz
+27.72.2 Energy Ball
+21.91.4 Psybeam
+
+
+Mothim
+14.0 Air Slash
+12.0 Bug Bite
+29.22.2 Bug Buzz
+27.52.0 Aerial Ace
+21.91.4 Psybeam
+
+
+Combee
+12.0 Bug Bite
+29.22.2 Bug Buzz
+
+
+Vespiquen
+12.0 Bug Bite
+8.3 Poison Sting
+33.81.6 X-Scissor
+29.22.2 Bug Buzz
+27.61.6 Power Gem
+
+
+Pachirisu
+10.4 Volt Switch
+10.3 Spark
+50.01.2 Thunder
+38.41.9 Thunderbolt
+30.01.6 Thunder Punch
+
+
+Buizel
+12.0 Water Gun
+10.0 Quick Attack
+26.31.7 Water Pulse
+21.41.2 Swift
+20.81.6 Aqua Jet
+
+
+Floatzel
+16.0 Waterfall
+12.0 Water Gun
+47.31.6 Hydro Pump
+21.41.2 Swift
+20.81.6 Aqua Jet
+
+
+Cherubi
+10.0 Tackle
+8.7 Bullet Seed
+50.81.3 Petal Blizzard
+31.42.0 Seed Bomb
+28.62.0 Dazzling Gleam
+
+
+Cherrim
+15.6 Razor Leaf
+8.7 Bullet Seed
+44.12.2 Solar Beam
+39.51.5 Hyper Beam
+28.62.0 Dazzling Gleam
+
+
+Shellos
+10.7 Mud-Slap
+10.0 Hidden Power
+26.31.5 Body Slam
+26.31.7 Water Pulse
+23.91.7 Mud Bomb
+
+
+Gastrodon
+12.9 Mud-Slap
+10.0 Hidden Power
+40.01.4 Earthquake
+26.31.5 Body Slam
+26.31.7 Water Pulse
+
+
+Ambipom
+14.4 Scratch
+7.3 Astonish
+47.41.8 Hyper Beam
+22.91.7 Aerial Ace
+21.11.2 Low Sweep
+
+
+Drifloon
+10.0 Hex
+8.7 Astonish
+40.02.4 Shadow Ball
+26.11.8 Ominous Wind
+18.21.8 Icy Wind
+
+
+Drifblim
+10.0 Hex
+8.7 Astonish
+40.02.4 Shadow Ball
+26.11.8 Ominous Wind
+18.21.8 Icy Wind
+
+
+Buneary
+14.0 Pound
+12.0 Quick Attack
+25.71.4 Swift
+25.01.7 Fire Punch
+
+
+Lopunny
+14.0 Pound
+10.0 Low Kick
+47.41.8 Hyper Beam
+40.01.4 Focus Blast
+25.01.7 Fire Punch
+
+
+Mismagius
+10.0 Sucker Punch
+10.0 Hex
+40.02.4 Shadow Ball
+28.62.0 Dazzling Gleam
+26.71.6 Dark Pulse
+
+
+Honchkrow
+13.1 Snarl
+12.0 Peck
+54.01.1 Brave Bird
+48.01.9 Sky Attack
+35.71.0 Psychic
+32.01.9 Dark Pulse
+
+
+Glameow
+14.4 Scratch
+12.0 Quick Attack
+32.01.6 Thunderbolt
+31.01.8 Play Rough
+22.91.7 Aerial Ace
+
+
+Purugly
+14.4 Scratch
+12.9 Shadow Claw
+41.71.0 Thunder
+31.01.8 Play Rough
+22.91.7 Aerial Ace
+
+
+Chingling
+13.1 Zen Headbutt
+7.3 Astonish
+33.32.0 Shadow Ball
+28.92.4 Psyshock
+20.71.8 Wrap
+
+
+Stunky
+14.4 Bite
+12.0 Scratch
+41.71.9 Sludge Bomb
+31.81.4 Flamethrower
+26.32.5 Crunch
+
+
+Skuntank
+15.0 Poison Jab
+14.4 Bite
+41.71.9 Sludge Bomb
+31.81.4 Flamethrower
+26.32.5 Crunch
+
+
+Bronzor
+15.0 Confusion
+10.0 Tackle
+40.01.7 Heavy Slam
+29.11.9 Gyro Ball
+28.92.4 Psyshock
+
+
+Bronzong
+15.0 Confusion
+11.1 Feint Attack
+44.41.2 Flash Cannon
+42.91.2 Psychic
+40.01.7 Heavy Slam
+
+
+Bonsly
+16.0 Rock Throw
+13.3 Counter
+35.61.9 Rock Slide
+33.31.2 Earthquake
+26.31.7 Rock Tomb
+
+
+Mime Jr.
+15.0 Confusion
+11.7 Pound
+42.91.2 Psychic
+28.92.4 Psyshock
+26.31.7 Psybeam
+
+
+Happiny
+14.0 Pound
+10.9 Zen Headbutt
+35.71.0 Psychic
+
+
+Chatot
+13.8 Steel Wing
+12.0 Peck
+48.01.9 Sky Attack
+31.71.0 Heat Wave
+23.11.2 Night Shade
+
+
+Spiritomb
+13.3 Feint Attack
+12.0 Sucker Punch
+40.02.4 Shadow Ball
+26.11.8 Ominous Wind
+20.71.8 Shadow Sneak
+
+
+Gible
+10.0 Mud Shot
+6.7 Take Down
+26.31.5 Body Slam
+25.52.4 Dig
+19.31.6 Twister
+
+
+Gabite
+10.0 Mud Shot
+6.7 Take Down
+31.81.4 Flamethrower
+25.52.4 Dig
+19.31.6 Twister
+
+
+Garchomp
+16.4 Dragon Tail
+10.0 Mud Shot
+40.01.4 Earthquake
+33.82.6 Outrage
+33.31.4 Fire Blast
+
+
+Munchlax
+12.0 Tackle
+10.0 Lick
+41.91.3 Gunk Shot
+31.61.8 Body Slam
+22.91.6 Bulldoze
+
+
+Riolu
+16.0 Counter
+10.0 Quick Attack
+40.01.2 Cross Chop
+30.01.5 Brick Break
+25.31.5 Low Sweep
+
+
+Lucario
+16.0 Counter
+12.0 Bullet Punch
+52.21.2 Close Combat
+44.41.2 Flash Cannon
+33.32.0 Shadow Ball
+
+
+Hippopotas
+12.0 Bite
+10.0 Tackle
+26.31.5 Body Slam
+25.52.4 Dig
+21.91.4 Rock Tomb
+
+
+Hippowdon
+12.2 Fire Fang
+12.0 Bite
+43.51.0 Stone Edge
+40.01.4 Earthquake
+26.31.5 Body Slam
+
+
+Skorupi
+10.9 Infestation
+10.0 Poison Sting
+41.71.9 Sludge Bomb
+32.01.5 Cross Poison
+26.31.5 Aqua Tail
+
+
+Drapion
+14.4 Bite
+10.0 Poison Sting
+9.1 Infestation
+41.71.9 Sludge Bomb
+26.31.5 Aqua Tail
+26.32.5 Crunch
+
+
+Croagunk
+15.0 Poison Jab
+10.0 Poison Sting
+41.71.9 Sludge Bomb
+30.01.5 Brick Break
+25.31.5 Low Sweep
+
+
+Toxicroak
+16.0 Counter
+15.0 Poison Jab
+41.71.9 Sludge Bomb
+40.02.2 Dynamic Punch
+23.91.7 Mud Bomb
+
+
+Carnivine
+14.0 Vine Whip
+12.0 Bite
+41.52.2 Power Whip
+27.72.2 Energy Ball
+21.92.1 Crunch
+
+
+Finneon
+12.0 Water Gun
+11.7 Pound
+27.31.8 Ice Beam
+26.31.7 Water Pulse
+18.92.1 Silver Wind
+
+
+Lumineon
+16.0 Waterfall
+12.0 Water Gun
+41.91.3 Blizzard
+26.31.7 Water Pulse
+18.92.1 Silver Wind
+
+
+Mantyke
+12.0 Bubble
+10.0 Tackle
+27.52.0 Aerial Ace
+27.31.8 Ice Beam
+26.31.7 Water Pulse
+
+
+Snover
+12.0 Ice Shard
+7.2 Powder Snow
+32.72.2 Ice Beam
+32.41.1 Stomp
+27.72.2 Energy Ball
+
+
+Abomasnow
+15.6 Razor Leaf
+7.2 Powder Snow
+50.31.6 Blizzard
+28.22.2 Outrage
+27.72.2 Energy Ball
+
+
+Weavile
+13.3 Feint Attack
+12.0 Ice Shard
+42.01.7 Foul Play
+40.01.4 Focus Blast
+40.02.2 Avalanche
+
+
+Magnezone
+10.3 Spark
+8.7 Charge Beam
+45.41.7 Zap Cannon
+44.41.2 Flash Cannon
+41.52.2 Wild Charge
+
+
+Lickilicky
+10.9 Zen Headbutt
+10.0 Lick
+47.41.8 Hyper Beam
+36.71.8 Solar Beam
+33.31.2 Earthquake
+
+
+Rhyperior
+16.0 Smack Down
+12.9 Mud-Slap
+52.21.2 Stone Edge
+40.01.4 Earthquake
+38.21.3 Surf
+
+
+Tangrowth
+14.0 Vine Whip
+9.1 Infestation
+44.12.2 Solar Beam
+34.81.6 Sludge Bomb
+20.02.1 Ancient Power
+
+
+Electivire
+10.0 Low Kick
+10.0 Thunder Shock
+50.01.2 Thunder
+41.52.2 Wild Charge
+30.01.6 Thunder Punch
+
+
+Magmortar
+15.3 Fire Spin
+10.0 Karate Chop
+40.01.7 Fire Blast
+35.71.0 Psychic
+30.02.0 Fire Punch
+25.01.2 Brick Break
+
+
+Togekiss
+14.0 Air Slash
+10.0 Hidden Power
+34.32.4 Dazzling Gleam
+31.81.4 Flamethrower
+27.52.0 Aerial Ace
+20.02.1 Ancient Power
+
+
+Yanmega
+12.0 Bug Bite
+12.0 Wing Attack
+29.22.2 Bug Buzz
+27.52.0 Aerial Ace
+20.02.1 Ancient Power
+
+
+Leafeon
+15.6 Razor Leaf
+10.0 Quick Attack
+44.12.2 Solar Beam
+35.02.5 Leaf Blade
+27.72.2 Energy Ball
+
+
+Glaceon
+13.3 Frost Breath
+12.0 Ice Shard
+40.02.2 Avalanche
+32.72.2 Ice Beam
+21.82.2 Icy Wind
+
+
+Gliscor
+12.0 Wing Attack
+7.5 Fury Cutter
+40.01.4 Earthquake
+27.52.0 Aerial Ace
+22.71.5 Night Slash
+
+
+Mamoswine
+12.9 Mud-Slap
+7.2 Powder Snow
+43.51.0 Stone Edge
+40.02.2 Avalanche
+27.41.9 Bulldoze
+
+
+Porygon-Z
+12.0 Hidden Power
+7.3 Charge Beam
+47.41.8 Hyper Beam
+41.91.3 Blizzard
+37.81.4 Zap Cannon
+36.71.8 Solar Beam
+
+
+Gallade
+15.0 Confusion
+12.0 Low Kick
+52.21.2 Close Combat
+42.91.2 Psychic
+29.22.1 Leaf Blade
+
+
+Probopass
+16.0 Rock Throw
+8.6 Spark
+35.61.9 Rock Slide
+32.01.6 Thunderbolt
+30.02.5 Magnet Bomb
+
+
+Dusknoir
+10.0 Hex
+8.7 Astonish
+35.71.0 Psychic
+26.71.6 Dark Pulse
+26.11.8 Ominous Wind
+
+
+Froslass
+10.0 Hex
+7.2 Powder Snow
+40.02.2 Avalanche
+40.02.4 Shadow Ball
+21.92.1 Crunch
+
+
+Rotom
+10.0 Thunder Shock
+8.7 Astonish
+50.01.2 Thunder
+38.41.9 Thunderbolt
+26.11.8 Ominous Wind
+
+
+Uxie
+15.0 Confusion
+13.1 Extrasensory
+53.31.4 Futuresight
+41.71.0 Thunder
+21.41.2 Swift
+
+
+Mesprit
+15.0 Confusion
+13.1 Extrasensory
+53.31.4 Futuresight
+41.91.3 Blizzard
+21.41.2 Swift
+
+
+Azelf
+15.0 Confusion
+13.1 Extrasensory
+53.31.4 Futuresight
+33.31.4 Fire Blast
+21.41.2 Swift
+
+
+Dialga
+14.4 Dragon Breath
+13.7 Metal Claw
+50.01.8 Draco Meteor
+41.71.0 Thunder
+37.91.4 Iron Head
+
+
+Palkia
+16.4 Dragon Tail
+14.4 Dragon Breath
+50.01.8 Draco Meteor
+47.31.6 Hydro Pump
+33.31.4 Fire Blast
+
+
+Heatran
+15.3 Fire Spin
+10.0 Bug Bite
+43.51.0 Stone Edge
+40.01.7 Fire Blast
+37.91.4 Iron Head
+
+
+Regigigas
+11.5 Rock Smash
+10.9 Zen Headbutt
+43.51.0 Stone Edge
+33.31.8 Avalanche
+33.31.4 Heavy Slam
+
+
+Giratina
+15.4 Shadow Claw
+14.4 Dragon Breath
+35.31.8 Dragon Claw
+20.71.8 Shadow Sneak
+20.02.1 Ancient Power
+
+
+Cresselia
+15.0 Confusion
+10.0 Psycho Cut
+53.31.4 Futuresight
+33.31.3 Moonblast
+22.51.6 Aurora Beam
+
+
+Phione
+16.0 Waterfall
+12.0 Bubble
+45.91.6 Surf
+28.41.6 Bubble Beam
+26.31.7 Water Pulse
+
+
+Manaphy
+16.0 Waterfall
+12.0 Bubble
+45.91.6 Surf
+35.71.0 Psychic
+28.41.6 Bubble Beam
+
+
+Darkrai
+13.3 Feint Attack
+13.1 Snarl
+40.01.4 Focus Blast
+33.32.0 Shadow Ball
+32.01.9 Dark Pulse
+
+
+Shaymin
+10.9 Zen Headbutt
+10.0 Hidden Power
+44.12.2 Solar Beam
+41.52.2 Grass Knot
+27.72.2 Energy Ball
+
+
+Arceus
+13.6 Iron Tail
+12.9 Shadow Claw
+47.41.8 Hyper Beam
+44.41.2 Futuresight
+28.22.2 Outrage
+
+
+Meltan
+8.3 Thunder Shock
+44.41.2 Flash Cannon
+32.01.6 Thunderbolt
+
+
+Melmetal
+8.3 Thunder Shock
+44.41.2 Flash Cannon
+39.51.5 Hyper Beam
+32.01.6 Thunderbolt
+29.61.6 Rock Slide
+
+
+Deoxys Attack Forme
+13.1 Zen Headbutt
+12.5 Poison Jab
+37.81.4 Zap Cannon
+26.71.6 Dark Pulse
+21.01.7 Psycho Boost
+
+
+Deoxys Defense Forme
+13.3 Counter
+13.1 Zen Headbutt
+32.01.6 Thunderbolt
+29.61.6 Rock Slide
+21.01.7 Psycho Boost
+
+
+Deoxys Speed Forme
+13.1 Zen Headbutt
+7.3 Charge Beam
+32.01.6 Thunderbolt
+21.41.2 Swift
+21.01.7 Psycho Boost
+
+
+Wormadam Sandy Cloak
+12.5 Confusion
+12.0 Bug Bite
+29.22.2 Bug Buzz
+27.41.9 Bulldoze
+21.91.4 Psybeam
+
+
+Wormadam Trash Cloak
+12.5 Confusion
+12.0 Bug Bite
+37.91.4 Iron Head
+29.22.2 Bug Buzz
+21.91.4 Psybeam
+
+
+Shaymin Sky Forme
+10.9 Zen Headbutt
+10.0 Hidden Power
+44.12.2 Solar Beam
+41.52.2 Grass Knot
+27.72.2 Energy Ball
+
+
+Giratina Origin Forme
+15.4 Shadow Claw
+14.4 Dragon Breath
+35.31.8 Dragon Claw
+20.71.8 Shadow Sneak
+20.02.1 Ancient Power
+
+
+Rotom Heat Rotom
+10.0 Thunder Shock
+7.3 Astonish
+50.01.2 Thunder
+48.01.9 Overheat
+38.41.9 Thunderbolt
+
+
+Rotom Wash Rotom
+10.0 Thunder Shock
+7.3 Astonish
+50.01.2 Thunder
+47.31.6 Hydro Pump
+38.41.9 Thunderbolt
+
+
+Rotom Frost Rotom
+10.0 Thunder Shock
+7.3 Astonish
+50.31.6 Blizzard
+50.01.2 Thunder
+38.41.9 Thunderbolt
+
+
+Rotom Fan Rotom
+14.0 Air Slash
+7.3 Astonish
+50.01.2 Thunder
+38.41.9 Thunderbolt
+21.71.5 Ominous Wind
+
+
+Rotom Mow Rotom
+10.0 Thunder Shock
+7.3 Astonish
+50.01.2 Thunder
+38.41.9 Thunderbolt
+21.71.5 Ominous Wind
+
+
+Castform Sunny Form
+12.0 Ember
+10.0 Tackle
+45.02.2 Weather Ball
+40.01.7 Fire Blast
+36.71.8 Solar Beam
+
+
+Castform Rainy Form
+12.0 Water Gun
+10.0 Tackle
+47.31.6 Hydro Pump
+45.02.2 Weather Ball
+41.71.0 Thunder
+
+
+Castform Snowy Form
+10.0 Tackle
+7.2 Powder Snow
+50.31.6 Blizzard
+45.02.2 Weather Ball
+32.72.2 Ice Beam
+
+
+Rattata Alola Form
+12.0 Tackle
+12.0 Quick Attack
+38.41.9 Hyper Fang
+33.32.0 Shadow Ball
+26.32.5 Crunch
+
+
+Raticate Alola Form
+14.4 Bite
+12.0 Quick Attack
+47.41.8 Hyper Beam
+38.41.9 Hyper Fang
+26.32.5 Crunch
+
+
+Raichu Alola Form
+10.4 Volt Switch
+10.3 Spark
+42.91.2 Psychic
+41.52.2 Wild Charge
+30.01.6 Thunder Punch
+
+
+Sandshrew Alola Form
+13.7 Metal Claw
+7.2 Powder Snow
+50.31.6 Blizzard
+29.11.9 Gyro Ball
+22.71.5 Night Slash
+
+
+Sandslash Alola Form
+13.7 Metal Claw
+7.2 Powder Snow
+50.31.6 Blizzard
+29.11.9 Gyro Ball
+22.91.6 Bulldoze
+
+
+Vulpix Alola Form
+10.9 Zen Headbutt
+7.2 Powder Snow
+50.31.6 Blizzard
+32.72.2 Ice Beam
+26.71.6 Dark Pulse
+
+
+Ninetales Alola Form
+11.1 Feint Attack
+7.2 Powder Snow
+50.31.6 Blizzard
+34.32.4 Dazzling Gleam
+32.72.2 Ice Beam
+24.12.0 Psyshock
+
+
+Diglett Alola Form
+13.7 Metal Claw
+12.9 Mud-Slap
+28.72.0 Mud Bomb
+25.52.4 Dig
+21.91.4 Rock Tomb
+
+
+Dugtrio Alola Form
+13.7 Metal Claw
+12.9 Mud-Slap
+40.01.4 Earthquake
+37.91.4 Iron Head
+28.72.0 Mud Bomb
+
+
+Meowth Alola Form
+14.4 Bite
+12.0 Scratch
+42.01.7 Foul Play
+32.01.9 Dark Pulse
+27.31.8 Night Slash
+
+
+Persian Alola Form
+13.3 Feint Attack
+12.0 Scratch
+42.01.7 Foul Play
+32.01.9 Dark Pulse
+31.01.8 Play Rough
+
+
+Geodude Alola Form
+16.0 Rock Throw
+10.4 Volt Switch
+38.41.9 Thunderbolt
+35.61.9 Rock Slide
+26.31.7 Rock Tomb
+
+
+Graveler Alola Form
+16.0 Rock Throw
+10.4 Volt Switch
+52.21.2 Stone Edge
+38.41.9 Thunderbolt
+28.61.8 Rock Blast
+
+
+Golem Alola Form
+16.0 Rock Throw
+10.4 Volt Switch
+52.21.2 Stone Edge
+41.52.2 Wild Charge
+28.61.8 Rock Blast
+
+
+Grimer Alola Form
+15.0 Poison Jab
+14.4 Bite
+50.31.6 Gunk Shot
+41.71.9 Sludge Bomb
+26.32.5 Crunch
+
+
+Muk Alola Form
+15.0 Poison Jab
+14.4 Bite
+13.1 Snarl
+50.31.6 Gunk Shot
+41.31.3 Sludge Wave
+32.01.9 Dark Pulse
+
+
+Exeggutor Alola Form
+16.4 Dragon Tail
+8.7 Bullet Seed
+44.12.2 Solar Beam
+31.42.0 Seed Bomb
+30.02.2 Dragon Pulse
+
+
+Marowak Alola Form
+11.5 Rock Smash
+10.0 Hex
+40.02.4 Shadow Ball
+40.01.7 Fire Blast
+25.01.2 Bone Club
